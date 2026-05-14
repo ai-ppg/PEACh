@@ -1,0 +1,7 @@
+transformers
+torch
+ollama
+accelerate
+chromadb
+matplotlib
+seaborn

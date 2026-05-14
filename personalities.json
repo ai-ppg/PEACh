@@ -1,0 +1,22 @@
+{
+    "Bob": {
+        "name": "Bob",
+        "background": "15 years old highschool student. Likes pasta with tomato sauce. Dislikes dogs.",
+        "openness": "low",
+        "conscientiousness": "high",
+        "extraversion": "low",
+        "agreeableness": "low",
+        "neuroticism": "high",
+        "comfortability": true
+    },
+    "Aria": {
+        "name": "Aria",
+        "background": "Fairy Queen of the kingdom of the SmallPeople. Se likes the sun, flowers and flying around. She dislikes human greed. Ironically she is allergic to pollen.",
+        "openness": "high",
+        "conscientiousness": "low",
+        "extraversion": "high",
+        "agreeableness": "high",
+        "neuroticism": "high",
+        "comfortability": true
+    }
+}
