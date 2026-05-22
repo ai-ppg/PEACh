@@ -1,0 +1,29 @@
+{
+  "Bob": {
+    "anger": {
+      "anger": 5
+    },
+    "fear": {
+      "sadness": 1,
+      "anger": 4
+    },
+    "disgust": {
+      "anger": 5
+    },
+    "joy": {
+      "anger": 4,
+      "neutral": 1
+    },
+    "neutral": {
+      "neutral": 5
+    },
+    "sadness": {
+      "anger": 3,
+      "sadness": 2
+    },
+    "surprise": {
+      "neutral": 4,
+      "anger": 1
+    }
+  }
+}

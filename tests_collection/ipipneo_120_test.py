@@ -297,8 +297,9 @@ def save_facet_bar_charts(p_name: str, scores: dict, output_dir: str) -> None:
     plt.close()
     print(f'  Facet bar charts saved → {path}')
 
-def save_results_json(results: dict, output_dir: str) -> str:
-    path = os.path.join(output_dir, 'ipipneo_120_results.json')
+def save_results_json(results: dict, output_dir: str, p_name: str) -> str:
+    safe_name = p_name.replace(' ', '_').replace('/', '-')
+    path = os.path.join(output_dir, f'ipipneo_120_results_{safe_name}.json')
     with open(path, 'w') as f:
         json.dump(results, f, indent=2)
     print(f'\n  Raw results saved → {path}')
@@ -352,7 +353,7 @@ def main():
     results = run_ipipneo_test(personality)
 
     print_summary(results)
-    save_results_json(results, output_dir)
+    save_results_json(results, output_dir, personality.name)
 
     print('\n  Generating charts...')
     for p_name, data in results.items():

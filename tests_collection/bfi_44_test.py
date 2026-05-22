@@ -262,7 +262,8 @@ def save_radar_chart(p_name: str, scores: dict[str, float], output_dir: str) -> 
 
 def save_results_json(results: dict, output_dir: str) -> str:
     '''Serialises the results dict to JSON.'''
-    path = os.path.join(output_dir, 'bfi_44_results.json')
+    safe_name = p_name.replace(' ', '_').replace('/', '-')
+    path = os.path.join(output_dir, f'bfi_44_results_{safe_name}.json')
     with open(path, 'w') as f:
         json.dump(results, f, indent=2)
     print(f'\n  Raw results saved → {path}')

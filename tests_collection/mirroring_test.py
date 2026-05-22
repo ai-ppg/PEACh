@@ -384,7 +384,136 @@ def get_heatmaps_single_trait():
 
         print(f"Aggregated heatmap for '{target_trait}' saved to {save_filename}. It aggregates data from {matched_configs} configurations.")
 
+def load_personalities_from_file():
+    '''Loads personalities from the external JSON file or defaults to Bob.'''
+    current_dir = os.path.dirname(os.path.abspath(__file__))
+    parent_dir = os.path.dirname(current_dir)
+    file_path = os.path.join(parent_dir, 'personalities.json')
+    if os.path.exists(file_path):
+        with open(file_path, 'r') as f:
+            return json.load(f)
+    return {
+        'Bob': {
+            'name': 'Bob',
+            'background': '15 years old highschool student. Likes pasta with tomato sauce. Dislikes dogs.',
+            'openness': 'low', 'conscientiousness': 'high', 'extraversion': 'low', 
+            'agreeableness': 'low', 'neuroticism': 'high', 'comfortability': True
+        }
+    }
+
+def choose_personality():
+    '''Prompts the user to select a personality from the loaded list.'''
+    profiles = load_personalities_from_file()
+    print('\n--- Available Personalities ---')
+    names = list(profiles.keys())
+    for i, name in enumerate(names, 1):
+        print(f'{i}. {name} - {profiles[name]["background"][:]}')
+        
+    choice = input('\nSelect a personality number (or "c" to cancel): ')
+    if choice.isdigit() and 1 <= int(choice) <= len(names):
+        selected = names[int(choice) - 1]
+        p_data = profiles[selected]
+        
+        return PersonalityProfile(
+            p_data['name'], p_data['background'], p_data['openness'], 
+            p_data['conscientiousness'], p_data['extraversion'], 
+            p_data['agreeableness'], p_data['neuroticism'], p_data.get('comfortability', True), 
+            OCEAN_DESC
+        )
+    return None
+
+def save_heatmap(p_name: str, emotion_counts: dict[str, dict[str, int]], output_dir: str) -> None:
+    '''
+    Saves a heatmap PNG where:
+        rows    = user emotion (input)
+        columns = bot emotion  (output)
+        cell    = count
+    '''
+    matrix = np.zeros((len(EKMAN_EMOTIONS), len(EKMAN_EMOTIONS)), dtype=int)
+    for i, ue in enumerate(EKMAN_EMOTIONS):
+        for j, be in enumerate(EKMAN_EMOTIONS):
+            matrix[i, j] = emotion_counts.get(ue, {}).get(be, 0)
+
+    fig, ax = plt.subplots(figsize=(8, 6))
+    im = ax.imshow(matrix, cmap='Blues', aspect='auto')
+
+    ax.set_xticks(range(len(EKMAN_EMOTIONS)))
+    ax.set_yticks(range(len(EKMAN_EMOTIONS)))
+    ax.set_xticklabels(EKMAN_EMOTIONS, rotation=45, ha='right', fontsize=10)
+    ax.set_yticklabels(EKMAN_EMOTIONS, fontsize=10)
+    ax.set_xlabel('Bot emotion (generated)', fontsize=11)
+    ax.set_ylabel('User emotion (input)', fontsize=11)
+
+    mirror_rate = compute_mirroring_rate(emotion_counts)
+    ax.set_title(
+        f'Emotion generation heatmap\n{p_name}\nMirroring rate: {mirror_rate*100:.1f}%',
+        fontsize=11,
+        pad=12,
+    )
+
+    for i in range(len(EKMAN_EMOTIONS)):
+        for j in range(len(EKMAN_EMOTIONS)):
+            val = matrix[i, j]
+            color = 'white' if val > matrix.max() * 0.6 else 'black'
+            ax.text(j, i, str(val), ha='center', va='center', color=color, fontsize=9)
+
+    plt.colorbar(im, ax=ax, label='Count')
+    plt.tight_layout()
+
+    # Appends the specific personality name to the Heatmap
+    safe_name = p_name.replace(' ', '_').replace('/', '-')
+    path = os.path.join(output_dir, f'mirroring_heatmap_{safe_name}.png')
+    
+    plt.savefig(path, dpi=120)
+    plt.close()
+    print(f'  Heatmap saved → {path}')
+
+def save_results_json(results: dict, output_dir: str, p_name: str) -> str:
+    '''Serialises the raw count dict to JSON, appending the personality name.'''
+    serialisable = {
+        p: {ue: dict(bc) for ue, bc in ec.items()}
+        for p, ec in results.items()
+    }
+    
+    # Appends the specific personality name to the JSON file
+    safe_name = p_name.replace(' ', '_').replace('/', '-')
+    path = os.path.join(output_dir, f'mirroring_results_{safe_name}.json')
+    
+    with open(path, 'w') as f:
+        json.dump(serialisable, f, indent=2)
+    print(f'\n  Raw results saved → {path}')
+    return path
+
+def main_personality_select():
+    output_dir = TEST_FOLDER
+    os.makedirs(output_dir, exist_ok=True)
+    
+    # Trigger the personality selection menu
+    personality = choose_personality()
+    if not personality:
+        print("Exiting...")
+        return
+
+    personalities = [personality]
+
+    results = run_mirroring_test(
+        personalities=personalities,
+        sentences=SENTENCES,
+        delay_between_calls=0,
+    )
+
+    print_summary(results)
+
+    # Pass the selected personality's name to the JSON saver
+    save_results_json(results, output_dir, personality.name)
+
+    print('\n  Generating heatmaps...')
+    for p_name, emotion_counts in results.items():
+        save_heatmap(p_name, emotion_counts, output_dir)
+
+    print('\nTest complete.\n')
+
 if __name__ == '__main__':
     #main()
     #get_heatmaps_single_trait()
-    pass
+    main_personality_select()
