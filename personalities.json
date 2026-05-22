@@ -16,7 +16,17 @@
         "conscientiousness": "low",
         "extraversion": "high",
         "agreeableness": "high",
-        "neuroticism": "high",
+        "neuroticism": "low",
+        "comfortability": true
+    },
+    "Arya": {
+        "name": "Arya",
+        "background": "Fairy Queen of the kingdom of the SmallPeople. Se likes the sun, flowers and flying around. She likes humans. Ironically she is allergic to pollen.",
+        "openness": "high",
+        "conscientiousness": "low",
+        "extraversion": "high",
+        "agreeableness": "high",
+        "neuroticism": "low",
         "comfortability": true
     }
 }
