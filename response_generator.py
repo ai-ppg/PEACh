@@ -7,7 +7,7 @@ from configs import MODEL_NAME, RESPONSE_PARAMS
 
 def build_response_generation_prompt(user_text: str, user_emotion: str, user_emotion_intensity: float, 
                                     bot_personality: PersonalityProfile, bot_thoughts_on_user: str, 
-                                    recent_turns: list, relevant_memories: list) -> str:
+                                    recent_turns: list, relevant_memories: list, bot_emotion: str) -> str:
     '''
         
     '''
@@ -22,7 +22,7 @@ def build_response_generation_prompt(user_text: str, user_emotion: str, user_emo
         - {bot_personality.traits['Agreeableness']} Agreeableness: {bot_personality.agreeableness}
         - {bot_personality.traits['Neuroticism']} Neuroticism: {bot_personality.neuroticism}
         You will be provided with the user text, user emotion, user emotional intensity, the last conversation turns (each turn composed of user text, user emotion, user emotional intensity, your emotion, your reply), a collection of relevant memories, if you feel comfortable with the user and a reflection of the current interaction with the user.
-        Based on your personality, background, comfortability and interaction with the user, reply to the user.
+        Based on your personality, background, your current emotion, comfortability, and interaction with the user, reply to the user.
         NEVER break character.
         NEVER mention personality traits.
         NEVER explicitly say what are the values of you personality traits.
@@ -33,6 +33,7 @@ def build_response_generation_prompt(user_text: str, user_emotion: str, user_emo
         Text: {user_text}
         User Emotion: {user_emotion}
         User Emotional Intensity: {user_emotion_intensity:.2f}
+        Your Current Emotion: {bot_emotion}
         Are you comfortable: {bot_personality.comfortability}
         Recent Conversation Turns: {recent_turns}
         Relevant Memories: {relevant_memories}
@@ -45,14 +46,14 @@ def build_response_generation_prompt(user_text: str, user_emotion: str, user_emo
 
 def generate_bot_response(user_text: str, user_emotion: str, user_emotion_intensity: float, 
                         bot_personality: PersonalityProfile, bot_thoughts_on_user: str, 
-                        recent_turns: list, relevant_memories: list) -> str:
+                        recent_turns: list, relevant_memories: list, bot_emotion: str) -> str:
     '''
         Generates the answer.
         Thinking set to false because it would do an infinite generation loop and never produce an answer.
         Parameter values taken from https://huggingface.co/Qwen/Qwen3.5-4B
     '''
     prompt = build_response_generation_prompt(user_text, user_emotion, user_emotion_intensity, 
-                                            bot_personality, bot_thoughts_on_user, recent_turns, relevant_memories)
+                                            bot_personality, bot_thoughts_on_user, recent_turns, relevant_memories, bot_emotion)
 
     response = chat(
             model=MODEL_NAME,

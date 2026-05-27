@@ -17,6 +17,12 @@ import torch
 from transformers import AutoTokenizer, AutoModelForSeq2SeqLM
 from configs import EMOBART_MODEL_ID, SAVE_EMOBART_DIR
 
+SAVE_EMOBART_DIR = os.path.abspath(
+
+    os.path.join(os.path.dirname(__file__), SAVE_EMOBART_DIR)
+
+)
+
 def download_emobart_model():
     '''
         If the EmoBART model is not present, download from Hugging Face and save it.
@@ -38,7 +44,7 @@ def get_emobart_tokenizer_and_model() -> tuple[AutoTokenizer, AutoModelForSeq2Se
         Returns tokenizer, model loaded from the local directory.
         Uses device_map='auto' to handle the large model size efficiently if GPUs are available.
     '''
-    tokenizer = AutoTokenizer.from_pretrained(SAVE_EMOBART_DIR)
+    tokenizer = AutoTokenizer.from_pretrained(SAVE_EMOBART_DIR, clean_up_tokenization_spaces=False)
     model = AutoModelForSeq2SeqLM.from_pretrained(SAVE_EMOBART_DIR, device_map='auto')
 
     return tokenizer, model

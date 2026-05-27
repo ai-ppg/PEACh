@@ -61,7 +61,7 @@ class PEACh:
             print(f'[LTM] Retrieved {len(relevant_memories)} memories.')
 
 
-            bot_text = generate_bot_response(utterance, user_emotion, user_emotion_intensity, self.personality, self.thoughts_on_user, self.recent_turns, relevant_memories)
+            bot_text = generate_bot_response(utterance, user_emotion, user_emotion_intensity, self.personality, self.thoughts_on_user, self.recent_turns, relevant_memories, bot_emotion)
             print(f'{self.personality.name}:', bot_text)
 
             self.recent_turns = recent_turns_update(utterance, user_emotion, user_emotion_intensity, bot_emotion, bot_text, self.recent_turns)

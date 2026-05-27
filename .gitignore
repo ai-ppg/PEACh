@@ -1,3 +1,5 @@
 .venv/
 __pycache__
 model.safetensors
+long_memory
+local_jhartmann_model

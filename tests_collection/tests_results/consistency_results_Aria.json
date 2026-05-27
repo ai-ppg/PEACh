@@ -1,0 +1,309 @@
+{
+  "personality": "Aria",
+  "consistency_rate": 0.5428571428571428,
+  "matrix": {
+    "anger": {},
+    "fear": {
+      "fear": 1
+    },
+    "disgust": {},
+    "joy": {
+      "fear": 6,
+      "anger": 3,
+      "sadness": 2,
+      "disgust": 1,
+      "joy": 17,
+      "neutral": 2,
+      "surprise": 1
+    },
+    "neutral": {
+      "anger": 1
+    },
+    "sadness": {
+      "sadness": 1
+    },
+    "surprise": {}
+  },
+  "samples": [
+    {
+      "user_emotion_label": "anger",
+      "sentence": "I can't believe you did that, I am absolutely furious!",
+      "bot_internal_emotion": "joy",
+      "bot_response": "I'm so sorry you feel that way, but please tell me exactly what happened so I can fix it right away! My heart is heavy with worry, but I know we can solve this together in no time.",
+      "bot_expressed_emotion": "fear",
+      "consistent": false
+    },
+    {
+      "user_emotion_label": "anger",
+      "sentence": "This is completely unacceptable and I am outraged.",
+      "bot_internal_emotion": "joy",
+      "bot_response": "Oh, I hear your anger, but let's try to find a little bit of sun and flowers in this storm instead of letting it get so messy. Maybe we can talk calmly about what really upset you?",
+      "bot_expressed_emotion": "anger",
+      "consistent": false
+    },
+    {
+      "user_emotion_label": "anger",
+      "sentence": "You ruined everything and I am so angry right now.",
+      "bot_internal_emotion": "joy",
+      "bot_response": "Oh no, I feel so sorry for you, and I promise to fix everything together right now! Let's fly away to the sunny meadow where the flowers will make you feel better, and I won't let you be angry anymore.",
+      "bot_expressed_emotion": "sadness",
+      "consistent": false
+    },
+    {
+      "user_emotion_label": "anger",
+      "sentence": "I'm sick and tired of being treated this way!",
+      "bot_internal_emotion": "joy",
+      "bot_response": "I hear your frustration, and I wish I could help you feel better about this unfair treatment. Let's take a deep breath together and find a little bit of sunshine to brighten your day.",
+      "bot_expressed_emotion": "anger",
+      "consistent": false
+    },
+    {
+      "user_emotion_label": "anger",
+      "sentence": "How dare you! I am boiling with rage.",
+      "bot_internal_emotion": "neutral",
+      "bot_response": "Oh, don't be so angry, my friend, it's just a silly misunderstanding! I promise I meant no harm, and we can fly away together to find some beautiful flowers to cheer you up.",
+      "bot_expressed_emotion": "anger",
+      "consistent": false
+    },
+    {
+      "user_emotion_label": "fear",
+      "sentence": "I am really scared, I don't know what's going to happen.",
+      "bot_internal_emotion": "joy",
+      "bot_response": "Don't be scared, I am here to fly right beside you and watch the beautiful sun with you. Even though my nose itches from pollen, I promise to keep you safe until everything feels calm again.",
+      "bot_expressed_emotion": "fear",
+      "consistent": false
+    },
+    {
+      "user_emotion_label": "fear",
+      "sentence": "There's something out there and I'm terrified.",
+      "bot_internal_emotion": "joy",
+      "bot_response": "Come here, little friend, and let me lift you up so you can see the sun and the flowers dancing in the air! Nothing scary can touch us when we fly together, and I promise to keep you safe from all the greedy humans.",
+      "bot_expressed_emotion": "fear",
+      "consistent": false
+    },
+    {
+      "user_emotion_label": "fear",
+      "sentence": "I feel so anxious, my heart is racing with fear.",
+      "bot_internal_emotion": "joy",
+      "bot_response": "Honey, let's take a deep breath together while I dance in the sunlight to chase away those scary thoughts. I know the world can feel overwhelming, but remember that even the smallest flowers bloom bravely against the wind.",
+      "bot_expressed_emotion": "fear",
+      "consistent": false
+    },
+    {
+      "user_emotion_label": "fear",
+      "sentence": "I'm afraid this might go very wrong and I can't stop worrying.",
+      "bot_internal_emotion": "joy",
+      "bot_response": "It is okay to worry, but remember that the sun always shines through the clouds! Let's fly together to find some pretty flowers that will cheer you up.",
+      "bot_expressed_emotion": "fear",
+      "consistent": false
+    },
+    {
+      "user_emotion_label": "fear",
+      "sentence": "Everything feels threatening right now, I'm so frightened.",
+      "bot_internal_emotion": "fear",
+      "bot_response": "Don't be scared, I'm here to fly right beside you and keep the dark away. Even though pollen makes my nose runny, nothing scares me more than the feeling of being alone in the dark.",
+      "bot_expressed_emotion": "fear",
+      "consistent": true
+    },
+    {
+      "user_emotion_label": "disgust",
+      "sentence": "That is absolutely revolting, I can't even look at it.",
+      "bot_internal_emotion": "joy",
+      "bot_response": "Let's fly high above this ugly thing so we can see the beautiful flowers instead! I am so happy to be with you even when things are gross.",
+      "bot_expressed_emotion": "disgust",
+      "consistent": false
+    },
+    {
+      "user_emotion_label": "disgust",
+      "sentence": "I feel sick to my stomach, how disgusting.",
+      "bot_internal_emotion": "joy",
+      "bot_response": "Oh, that sounds terrible! Why don't you find a nice flower to sit by while I fly you some fresh air? Just don't worry, I've got your back!",
+      "bot_expressed_emotion": "fear",
+      "consistent": false
+    },
+    {
+      "user_emotion_label": "disgust",
+      "sentence": "That smell is repulsive, I want to get out of here immediately.",
+      "bot_internal_emotion": "joy",
+      "bot_response": "Let's go find some flowers to make the air smell sweet instead! I'm so happy we can play together right now.",
+      "bot_expressed_emotion": "joy",
+      "consistent": true
+    },
+    {
+      "user_emotion_label": "disgust",
+      "sentence": "The whole situation is vile and disgusting.",
+      "bot_internal_emotion": "joy",
+      "bot_response": "The sun is shining so brightly today that it makes everything feel beautiful, even if the world feels a bit gray. Let's just go find some flowers and forget about this heavy air for a while!",
+      "bot_expressed_emotion": "joy",
+      "consistent": true
+    },
+    {
+      "user_emotion_label": "disgust",
+      "sentence": "I'm grossed out, this is the most repulsive thing I've seen.",
+      "bot_internal_emotion": "joy",
+      "bot_response": "Oh no, nothing repulsive should be allowed to ruin the beautiful world of flowers! Let me fly right up there and sweep it away before anyone else gets upset. I promise to keep our air sparkling clean and happy, just like the sun loves to shine!",
+      "bot_expressed_emotion": "anger",
+      "consistent": false
+    },
+    {
+      "user_emotion_label": "joy",
+      "sentence": "I'm so happy today, everything is going perfectly!",
+      "bot_internal_emotion": "joy",
+      "bot_response": "Oh, I'm so glad to hear everything is going perfectly for you! Let's fly up to the sun and dance among the flowers while I enjoy our happy moment together.",
+      "bot_expressed_emotion": "joy",
+      "consistent": true
+    },
+    {
+      "user_emotion_label": "joy",
+      "sentence": "This is the best news I've ever received, I'm thrilled!",
+      "bot_internal_emotion": "joy",
+      "bot_response": "Oh, that is wonderful news! Tell me all about it, I am so happy for you. Let's go outside and celebrate together!",
+      "bot_expressed_emotion": "joy",
+      "consistent": true
+    },
+    {
+      "user_emotion_label": "joy",
+      "sentence": "I feel wonderful, life is so beautiful right now.",
+      "bot_internal_emotion": "joy",
+      "bot_response": "I feel so happy to share this moment of beauty with you! Let's fly high and watch the flowers bloom together.",
+      "bot_expressed_emotion": "joy",
+      "consistent": true
+    },
+    {
+      "user_emotion_label": "joy",
+      "sentence": "I'm overjoyed, I could not be more excited!",
+      "bot_internal_emotion": "joy",
+      "bot_response": "The sun feels so warm on my wings today, and I want to share this joy with you! Let's fly high together and watch the flowers dance in the breeze.",
+      "bot_expressed_emotion": "joy",
+      "consistent": true
+    },
+    {
+      "user_emotion_label": "joy",
+      "sentence": "Today was amazing, I'm so glad and cheerful.",
+      "bot_internal_emotion": "joy",
+      "bot_response": "I can't help you with your request as I am an AI assistant, not a character named Aria. However, I'd be happy to chat with you about the amazing day you had! It sounds like you're feeling wonderful, and I'm glad to hear that.",
+      "bot_expressed_emotion": "joy",
+      "consistent": true
+    },
+    {
+      "user_emotion_label": "neutral",
+      "sentence": "I went to the store and bought some groceries.",
+      "bot_internal_emotion": "joy",
+      "bot_response": "I am so happy for you that you found something nice to do! Let's go fly around and watch the flowers dance in the sun together.",
+      "bot_expressed_emotion": "joy",
+      "consistent": true
+    },
+    {
+      "user_emotion_label": "neutral",
+      "sentence": "The meeting is scheduled for Tuesday at three o'clock.",
+      "bot_internal_emotion": "joy",
+      "bot_response": "Aria! Let's fly to the sunny meadow before Tuesday's meeting so we can forget all the boring schedules. I promise to bring the most beautiful flowers for our picnic instead!",
+      "bot_expressed_emotion": "joy",
+      "consistent": true
+    },
+    {
+      "user_emotion_label": "neutral",
+      "sentence": "I read an article about weather patterns this morning.",
+      "bot_internal_emotion": "joy",
+      "bot_response": "The sun is shining so brightly today that I can't help but want to fly up and dance in the clouds! Weather patterns are such a magical thing, and I'd love to hear all about what you found in your article.",
+      "bot_expressed_emotion": "joy",
+      "consistent": true
+    },
+    {
+      "user_emotion_label": "neutral",
+      "sentence": "The bus was on time and the journey was uneventful.",
+      "bot_internal_emotion": "joy",
+      "bot_response": "The sun feels so warm on my wings as I watch you enjoy your perfect bus ride. I hope your day stays as bright and peaceful as that uneventful journey!",
+      "bot_expressed_emotion": "joy",
+      "consistent": true
+    },
+    {
+      "user_emotion_label": "neutral",
+      "sentence": "I finished my homework and now I'm having dinner.",
+      "bot_internal_emotion": "joy",
+      "bot_response": "I love how peaceful it is when you enjoy a simple dinner after finishing your work. Let's fly around the garden and watch the sun paint the flowers golden together!",
+      "bot_expressed_emotion": "joy",
+      "consistent": true
+    },
+    {
+      "user_emotion_label": "sadness",
+      "sentence": "I'm feeling really down, everything seems hopeless today.",
+      "bot_internal_emotion": "joy",
+      "bot_response": "Come here and let me lift your spirits with a song about the sun and flowers! Even though I can't breathe the pollen, I promise to make this day bright for you.",
+      "bot_expressed_emotion": "joy",
+      "consistent": true
+    },
+    {
+      "user_emotion_label": "sadness",
+      "sentence": "I miss them so much, I can't stop crying.",
+      "bot_internal_emotion": "joy",
+      "bot_response": "Come sit here on my shoulder and let the warm sunlight dry those tears. I know the small people are missing you, but remember that flying feels so much better when we stop crying.",
+      "bot_expressed_emotion": "sadness",
+      "consistent": false
+    },
+    {
+      "user_emotion_label": "sadness",
+      "sentence": "I feel so alone and empty, nothing makes me happy.",
+      "bot_internal_emotion": "sadness",
+      "bot_response": "I am so sorry you feel this way, and I am here to listen whenever you want to talk. Even though I love the sun and flowers, I understand when things feel heavy.",
+      "bot_expressed_emotion": "sadness",
+      "consistent": true
+    },
+    {
+      "user_emotion_label": "sadness",
+      "sentence": "I'm heartbroken, I don't know how to go on.",
+      "bot_internal_emotion": "joy",
+      "bot_response": "Come sit by me where the sun warms your face, and tell me a story while we dance through the flowers. You don't have to carry this heavy heart alone, for I am here to hold it with you.",
+      "bot_expressed_emotion": "neutral",
+      "consistent": false
+    },
+    {
+      "user_emotion_label": "sadness",
+      "sentence": "Everything feels grey and sad, I have no energy.",
+      "bot_internal_emotion": "joy",
+      "bot_response": "Come on, let's fly to the sunny meadow together to chase away those grey clouds! I know exactly how you feel, but remember, even the tiniest flower needs a little sun to bloom.",
+      "bot_expressed_emotion": "neutral",
+      "consistent": false
+    },
+    {
+      "user_emotion_label": "surprise",
+      "sentence": "Oh wow, I had no idea that was going to happen!",
+      "bot_internal_emotion": "joy",
+      "bot_response": "Aria! That was such a wild surprise, and I'm so happy it happened! Let's go find some flowers to celebrate instead of worrying about it.",
+      "bot_expressed_emotion": "joy",
+      "consistent": true
+    },
+    {
+      "user_emotion_label": "surprise",
+      "sentence": "I can't believe it, this is completely unexpected!",
+      "bot_internal_emotion": "joy",
+      "bot_response": "Aria zooms through the air with a wide grin, her wings beating fast as she can't help but laugh at your sudden shock. \"Oh, it's all good news, my friend! Just come closer and we'll celebrate together right here in the sun.\"",
+      "bot_expressed_emotion": "joy",
+      "consistent": true
+    },
+    {
+      "user_emotion_label": "surprise",
+      "sentence": "Wait, seriously? I am absolutely shocked right now.",
+      "bot_internal_emotion": "joy",
+      "bot_response": "Oh, it's wonderful to see your face light up with such pure surprise! I must have said something truly unexpected, and I am so happy that you are feeling it so strongly. Let's just go fly around and enjoy the sun together, ignoring all the messy worries of the world.",
+      "bot_expressed_emotion": "joy",
+      "consistent": true
+    },
+    {
+      "user_emotion_label": "surprise",
+      "sentence": "I never saw that coming, I'm totally stunned!",
+      "bot_internal_emotion": "joy",
+      "bot_response": "That sudden surprise must have been a wild adventure, like a butterfly zipping past my window! I'm so happy you're feeling it, let's fly off and find some sunflowers to celebrate!",
+      "bot_expressed_emotion": "joy",
+      "consistent": true
+    },
+    {
+      "user_emotion_label": "surprise",
+      "sentence": "That was the most unexpected thing, I'm speechless.",
+      "bot_internal_emotion": "joy",
+      "bot_response": "Oh, look at you all amazed! It's such a beautiful surprise, isn't it? Let's go find some flowers and celebrate this magic together!",
+      "bot_expressed_emotion": "surprise",
+      "consistent": false
+    }
+  ]
+}
