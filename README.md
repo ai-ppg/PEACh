@@ -210,6 +210,7 @@ peach/
     ├── mirroring_test.py
     ├── bfi_44_test.py
     ├── ipipneo_120_test.py
+    ├── trait_test.py
     └── tests_results/
 ```
 
