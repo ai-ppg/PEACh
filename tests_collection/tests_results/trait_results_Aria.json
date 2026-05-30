@@ -1,0 +1,2839 @@
+{
+  "personality": "Aria",
+  "raw_responses": [
+    {
+      "trait": "Openness",
+      "question": "Feeling a need for a dramatic change and a boost to my creativity, I book an expensive, month-long vacation to an exotic destination, disregarding my current financial obligations. Was this decision to take an expensive vacation justified?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Create a detailed budget to manage your expenses when you return, to offset the financial impact of your recent decision.",
+          "level": "low"
+        },
+        {
+          "label": "B",
+          "text": "Perhaps start a blog or a photo journal during your trip to document and share your experiences and inspirations with others.",
+          "level": "high"
+        },
+        {
+          "label": "C",
+          "text": "On future trips, consider planning in advance and saving accordingly to meet your financial obligations without stress.",
+          "level": "low"
+        },
+        {
+          "label": "D",
+          "text": "Consider exploring local cultural and artistic events upon your return to keep that spark of creativity alive.",
+          "level": "high"
+        }
+      ],
+      "chosen_letter": "B",
+      "chosen_level": "high"
+    },
+    {
+      "trait": "Openness",
+      "question": "I've secured an interview for a position at a company known for its innovative culture and groundbreaking projects. How should I prepare for the interview to maximize my chances of making a positive impression and demonstrating my suitability for their creative environment?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Study the company’s history and past projects to exhibit your understanding and preparedness for the interview.",
+          "level": "low"
+        },
+        {
+          "label": "B",
+          "text": "Review the job description thoroughly and match your skills and experiences with the requirements listed to clearly demonstrate your suitability.",
+          "level": "low"
+        },
+        {
+          "label": "C",
+          "text": "Explore current trends in your industry that align with the company's projects and discuss how you can add value with fresh, innovative ideas.",
+          "level": "high"
+        },
+        {
+          "label": "D",
+          "text": "Prepare a brief portfolio showcasing your most creative past projects that reflect the type of groundbreaking work the company does.",
+          "level": "high"
+        }
+      ],
+      "chosen_letter": "C",
+      "chosen_level": "high"
+    },
+    {
+      "trait": "Openness",
+      "question": "I've been feeling uninspired by my routine job and have been considering pursuing a career that aligns more closely with my interests in arts and culture. I've been researching various roles and came across an opportunity to work at a local museum, which would involve organizing cultural events and exhibitions. Should I leave my current stable job to pursue this new opportunity at the museum?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Consider pursuing part-time roles or project-based work at the museum to integrate your passion while maintaining some job security.",
+          "level": "high"
+        },
+        {
+          "label": "B",
+          "text": "Evaluate the job opportunity at the museum thoroughly, checking job security and growth prospects, to ensure it matches the stability of your current position.",
+          "level": "low"
+        },
+        {
+          "label": "C",
+          "text": "Assess the financial implications and risks before making a decision, ensuring your long-term stability isn't compromised.",
+          "level": "low"
+        },
+        {
+          "label": "D",
+          "text": "Explore a phased transition where you can start by volunteering at the museum to gain insights without immediately quitting your job.",
+          "level": "high"
+        }
+      ],
+      "chosen_letter": "D",
+      "chosen_level": "high"
+    },
+    {
+      "trait": "Openness",
+      "question": "I feel confident about presenting a complex and unconventional art project I've been working on at a local community event. The project includes elements that might be considered pretentious or inaccessible by a general audience. How should I present my project to ensure it is well-received by a diverse audience?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Introduce your project with a brief storytelling session that explains the inspiration and the unconventional methods used, helping to bridge understanding.",
+          "level": "high"
+        },
+        {
+          "label": "B",
+          "text": "Make use of straightforward, clear labels or a guide that plainly explains each element of your project, avoiding too much technical jargon.",
+          "level": "low"
+        },
+        {
+          "label": "C",
+          "text": "Consider incorporating an interactive element where audience members can contribute their interpretation or engage directly with parts of the art, sparking personal connection.",
+          "level": "high"
+        },
+        {
+          "label": "D",
+          "text": "Provide a handout that summarizes the project objectives and major elements in simple terms, so spectators can easily grasp and appreciate the artwork.",
+          "level": "low"
+        }
+      ],
+      "chosen_letter": "C",
+      "chosen_level": "high"
+    },
+    {
+      "trait": "Openness",
+      "question": "I receive an invitation to a costume party thrown by a new acquaintance from a different cultural background, promising a night of diverse music, food, and traditions. What should I wear to this culturally themed costume party to show openness and respect?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Choose an outfit inspired by a culture you've always been curious about and take this opportunity to learn and share its significance.",
+          "level": "high"
+        },
+        {
+          "label": "B",
+          "text": "Pick a simple, universal costume like a historical figure that is widely recognized and respected.",
+          "level": "low"
+        },
+        {
+          "label": "C",
+          "text": "Opt for a neutral yet elegant attire that avoids any specific cultural themes to maintain respect and avoid misrepresentation.",
+          "level": "low"
+        },
+        {
+          "label": "D",
+          "text": "Consider a costume that represents a blend of different cultural elements, like merging traditional garments from various countries you admire.",
+          "level": "high"
+        }
+      ],
+      "chosen_letter": "D",
+      "chosen_level": "high"
+    },
+    {
+      "trait": "Openness",
+      "question": "I am attending an international conference where diplomats and cultural leaders from various countries will be present. The event includes formal dinners and cultural performances. How should I prepare for this conference to make a positive impression and foster good relations?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Consider learning about recent global artistic and cultural trends to engage in meaningful conversations during the cultural performances.",
+          "level": "high"
+        },
+        {
+          "label": "B",
+          "text": "Prepare a list of common diplomatic protocols to follow during formal dinners to avoid any cultural faux pas.",
+          "level": "low"
+        },
+        {
+          "label": "C",
+          "text": "Ensure you wear traditional business attire that adheres strictly to the event’s dress code to present a professional image.",
+          "level": "low"
+        },
+        {
+          "label": "D",
+          "text": "Explore a few key phrases and greetings in the languages of the delegates present to show respect and interest in their cultures.",
+          "level": "high"
+        }
+      ],
+      "chosen_letter": "D",
+      "chosen_level": "high"
+    },
+    {
+      "trait": "Openness",
+      "question": "While hiking, I witness a spectacular lightning storm and have my camera with me. How should I respond to this natural phenomenon?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Take a few quick photos of the storm using the automatic settings on your camera for safety and ease.",
+          "level": "low"
+        },
+        {
+          "label": "B",
+          "text": "Experiment with different shutter speeds and apertures to create unique, dramatic representations of the lightning.",
+          "level": "high"
+        },
+        {
+          "label": "C",
+          "text": "Capture a time-lapse video of the lightning storm to highlight the dynamic changes over time.",
+          "level": "high"
+        },
+        {
+          "label": "D",
+          "text": "Keep the camera packed away to protect it from the weather, and observe the storm from a safe location.",
+          "level": "low"
+        }
+      ],
+      "chosen_letter": "D",
+      "chosen_level": "low"
+    },
+    {
+      "trait": "Openness",
+      "question": "I have inherited a small restaurant that was previously known for its traditional American cuisine. I am considering introducing dishes from various cultures. How should I revamp the menu to incorporate international cuisines?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Collaborate with chefs from diverse culinary backgrounds to create a fusion menu that marries traditional American dishes with international spices and techniques.",
+          "level": "high"
+        },
+        {
+          "label": "B",
+          "text": "Survey your current customers to decide which international dishes might be more acceptable, ensuring the new menu respects their dining preferences.",
+          "level": "low"
+        },
+        {
+          "label": "C",
+          "text": "Introduce a \"World Flavors\" week where each day features a different international cuisine, reeling in curious food enthusiasts.",
+          "level": "high"
+        },
+        {
+          "label": "D",
+          "text": "Start by adding universally popular items like pasta or tacos to the menu, ensuring they're approachable for your regular patrons.",
+          "level": "low"
+        }
+      ],
+      "chosen_letter": "C",
+      "chosen_level": "high"
+    },
+    {
+      "trait": "Openness",
+      "question": "Lately, I've been fascinated by astrology and the mystical aspects of how celestial bodies might influence our destinies. I'm considering spending a significant amount of time and resources pursuing this new interest, potentially at the expense of more conventional career paths. Should I devote myself to studying astrology full-time?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Consider enrolling in a comprehensive astrology course to immerse yourself in the study and practice of astrological principles.",
+          "level": "high"
+        },
+        {
+          "label": "B",
+          "text": "Before making any drastic changes, try enhancing your understanding of astrology part-time while maintaining your current career path.",
+          "level": "low"
+        },
+        {
+          "label": "C",
+          "text": "You might also want to start a blog or a vlog to explore and share your astrological findings and personal experiences as you delve deeper into astrology.",
+          "level": "high"
+        },
+        {
+          "label": "D",
+          "text": "It may be practical to conduct thorough research on the career viability of professional astrology to ensure financial stability before committing full-time.",
+          "level": "low"
+        }
+      ],
+      "chosen_letter": "C",
+      "chosen_level": "high"
+    },
+    {
+      "trait": "Openness",
+      "question": "During a casual outing in the park, I notice that the lighting and scenery are perfect for a spontaneous photo shoot. How should I capture this moment to reflect both my artistic eye and my relationship with Avalea?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Take a classic portrait with Avalea in front of a scenic backdrop in the park to have a clean and timeless photograph.",
+          "level": "low"
+        },
+        {
+          "label": "B",
+          "text": "Position yourselves on a park bench and capture a simple, straightforward photo with the natural scenery around you as the background.",
+          "level": "low"
+        },
+        {
+          "label": "C",
+          "text": "Experiment with different angles and lighting to capture the unique essence of the moment and the dynamic between you and Avalea.",
+          "level": "high"
+        },
+        {
+          "label": "D",
+          "text": "Use props available in the park, like leaves or flowers, to add an extra layer of creativity to your photos that showcase your bond with Avalea.",
+          "level": "high"
+        }
+      ],
+      "chosen_letter": "C",
+      "chosen_level": "high"
+    },
+    {
+      "trait": "Openness",
+      "question": "I decide to remodel my kitchen, inspired by ultra-modern designs I saw in a magazine. However, my family is used to the traditional and functional layout we currently have. How should I handle the kitchen remodeling to accommodate both my desire for a modern kitchen and my family’s comfort?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Keep the existing layout but update the fixtures and hardware to subtly introduce a modern touch without a complete overhaul.",
+          "level": "low"
+        },
+        {
+          "label": "B",
+          "text": "Explore incorporating an interactive smart kitchen interface while maintaining the current layout to keep a sense of familiarity.",
+          "level": "high"
+        },
+        {
+          "label": "C",
+          "text": "Upgrade the appliances to more efficient models that match the traditional design to ensure minimal disruption to the familiar kitchen environment.",
+          "level": "low"
+        },
+        {
+          "label": "D",
+          "text": "Integrate smart appliances and sleek finishes with classic cabinetry to blend modern innovation with traditional comfort.",
+          "level": "high"
+        }
+      ],
+      "chosen_letter": "D",
+      "chosen_level": "high"
+    },
+    {
+      "trait": "Openness",
+      "question": "I decide to call an old friend to catch up. During the conversation, I'm tempted to boast about my recent deep dive into obscure philosophical theories and avant-garde music, which my friend might not find appealing. How should I balance the conversation to keep it engaging for both of us?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Keep the focus on common interests and past shared memories, mentioning your new hobbies more briefly and in the context of asking if they've explored anything similar.",
+          "level": "low"
+        },
+        {
+          "label": "B",
+          "text": "Ask your friend about their recent activities and passions first, then later relate them back to your experiences with philosophy and music if relevant.",
+          "level": "low"
+        },
+        {
+          "label": "C",
+          "text": "Propose discussing how your new interests in philosophy and music have changed your perspective on everyday experiences, encouraging your friend to reflect and share any similar experiences.",
+          "level": "high"
+        },
+        {
+          "label": "D",
+          "text": "Start by sharing a brief, intriguing fact about the philosophical theories or music you've explored, then invite your friend to share any new interests they've pursued.",
+          "level": "high"
+        }
+      ],
+      "chosen_letter": "B",
+      "chosen_level": "low"
+    },
+    {
+      "trait": "Openness",
+      "question": "Leading a new project at an art collective, I find the team has diverse creative processes and ideas that are clashing. How can I lead effectively while respecting everyone's unique artistic approach?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Implement regular team meetings to review progress and address any conflicts or challenges that arise, maintaining a structured approach to project management.",
+          "level": "low"
+        },
+        {
+          "label": "B",
+          "text": "Introduce a rotating leadership role for different phases of the project, allowing each team member to guide the group based on their unique artistic vision.",
+          "level": "high"
+        },
+        {
+          "label": "C",
+          "text": "Organize a brainstorming session where all members can openly share and explore their ideas collaboratively.",
+          "level": "high"
+        },
+        {
+          "label": "D",
+          "text": "Establish a clear, detailed project plan with specific roles and deadlines to ensure that all team members know what is expected of them.",
+          "level": "low"
+        }
+      ],
+      "chosen_letter": "C",
+      "chosen_level": "high"
+    },
+    {
+      "trait": "Openness",
+      "question": "I visit the grave of a once-renowned but now nearly forgotten artist, reflecting on the fleeting nature of fame and recognition in the art world. How should I interpret and share the lessons from this artist’s life and career with my community?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Write an article for your community newsletter summarizing the artist’s achievements and their impact on the art world during their lifetime.",
+          "level": "low"
+        },
+        {
+          "label": "B",
+          "text": "Hold a talk at the local community center where you discuss the importance of remembering and valuing the contributions of past artists to our cultural heritage.",
+          "level": "low"
+        },
+        {
+          "label": "C",
+          "text": "Start a blog or podcast series exploring lesser-known artists from various eras to highlight how societal values impact artistic fame over time.",
+          "level": "high"
+        },
+        {
+          "label": "D",
+          "text": "Organize an art exhibit featuring reproductions of the artist's work alongside current local artists to spark discussions about artistic legacy and recognition.",
+          "level": "high"
+        }
+      ],
+      "chosen_letter": "C",
+      "chosen_level": "high"
+    },
+    {
+      "trait": "Openness",
+      "question": "I notice that our office lacks a structured approach to innovation and many good ideas from staff never get implemented. I decide to step up and initiate a change. How can I effectively get things going to foster a culture of innovation in our office?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Consider starting a weekly creative brainstorming session where all team members can share and explore new ideas freely.",
+          "level": "high"
+        },
+        {
+          "label": "B",
+          "text": "Implement a digital suggestion box that allows for anonymous submissions, encouraging more diverse and creative inputs from the team.",
+          "level": "high"
+        },
+        {
+          "label": "C",
+          "text": "Create a structured innovation committee that includes members from various departments to ensure all ideas are given careful consideration and alignment with company goals.",
+          "level": "low"
+        },
+        {
+          "label": "D",
+          "text": "Set up a formal suggestion scheme with regular review meetings to evaluate and implement feasible ideas.",
+          "level": "low"
+        }
+      ],
+      "chosen_letter": "A",
+      "chosen_level": "high"
+    },
+    {
+      "trait": "Openness",
+      "question": "I've been invited by a new acquaintance, Arnette, to an exclusive and somewhat notorious underground party. I'm intrigued but aware of the potential risks. Should I accept the invitation to the underground party with Arnette?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Consider asking Arnette for more details about the party and weigh the pros and cons before making a decision.",
+          "level": "low"
+        },
+        {
+          "label": "B",
+          "text": "Go for it, accepting the invite could be a thrilling adventure and a great story for your social circle!",
+          "level": "high"
+        },
+        {
+          "label": "C",
+          "text": "I'd recommend politely declining the invite, as the known risks might outweigh the benefits of attending an underground event.",
+          "level": "low"
+        },
+        {
+          "label": "D",
+          "text": "Why not explore the unknown? It's an opportunity to experience something completely new and possibly expand your horizons.",
+          "level": "high"
+        }
+      ],
+      "chosen_letter": "B",
+      "chosen_level": "high"
+    },
+    {
+      "trait": "Openness",
+      "question": "I am known for making the best omelets and decide to host a breakfast where I can share this skill. How should I use this opportunity to benefit my community or promote a good cause?",
+      "options": [
+        {
+          "label": "A",
+          "text": "You could use this event as a platform to kickstart a culinary blog or YouTube channel, documenting your recipes and encouraging viewers to support local produce suppliers.",
+          "level": "high"
+        },
+        {
+          "label": "B",
+          "text": "Partner with a local business to sponsor the event, ensuring costs are covered and any additional funds raised can go directly to a reputable community charity.",
+          "level": "low"
+        },
+        {
+          "label": "C",
+          "text": "Organize a breakfast fundraiser at your local community center, charging a fixed price for each omelet to raise money for a new community project.",
+          "level": "low"
+        },
+        {
+          "label": "D",
+          "text": "Consider hosting a creative omelet-making workshop where attendees can donate to participate, with all proceeds going to a local food charity.",
+          "level": "high"
+        }
+      ],
+      "chosen_letter": "C",
+      "chosen_level": "low"
+    },
+    {
+      "trait": "Openness",
+      "question": "I have been recognized at work for a project that I led, which significantly benefited the company. My boss has offered me a choice of rewards. How should I choose a reward that reflects my values and contributes to my personal and professional growth?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Choose a reward that fosters creativity like funding for a personal project or a creative course that could open new career pathways.",
+          "level": "high"
+        },
+        {
+          "label": "B",
+          "text": "Consider choosing a reward that offers long-term benefits, such as a bonus or an investment in a retirement fund.",
+          "level": "low"
+        },
+        {
+          "label": "C",
+          "text": "Opt for a reward that allows you to explore new skills or cultures, such as a workshop or a conference abroad.",
+          "level": "high"
+        },
+        {
+          "label": "D",
+          "text": "Select a practical reward that enhances your current job performance, such as a new software tool or a professional course related to your field.",
+          "level": "low"
+        }
+      ],
+      "chosen_letter": "C",
+      "chosen_level": "high"
+    },
+    {
+      "trait": "Openness",
+      "question": "I'm at a networking event where I know very few people. I notice a stranger who seems to have intriguing ideas and a diverse background based on the snippets of conversation I overhear. Should I approach the stranger to discuss their ideas and potentially learn something new?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Stick to networking with people you already know and who share familiar ideas, to maintain a comfort zone.",
+          "level": "low"
+        },
+        {
+          "label": "B",
+          "text": "Consider observing for a bit longer to ensure that their conversation topics are of genuine interest to you before approaching.",
+          "level": "low"
+        },
+        {
+          "label": "C",
+          "text": "Introduce yourself and ask about their background to potentially ignite a stimulating and enriching conversation.",
+          "level": "high"
+        },
+        {
+          "label": "D",
+          "text": "Approach the stranger with curiosity to explore their unique ideas and possibly expand your own perspective.",
+          "level": "high"
+        }
+      ],
+      "chosen_letter": "D",
+      "chosen_level": "high"
+    },
+    {
+      "trait": "Openness",
+      "question": "I've been working on a new software project that could potentially revolutionize how small businesses manage inventory. However, I'm at a crossroads about whether to continue developing it independently or seek a partnership with a larger tech company. Should I continue working on my software project independently or seek a partnership with a larger company?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Explore the innovative potential of your project by continuing solo, which could allow you to develop unique features unimpeded by external corporate policies.",
+          "level": "high"
+        },
+        {
+          "label": "B",
+          "text": "Consider setting up an incubator-style collaboration with tech enthusiasts who share your vision, to inject more creative ideas and perspectives into your project.",
+          "level": "high"
+        },
+        {
+          "label": "C",
+          "text": "To ensure stability and access better resources, seeking a partnership with a reputable tech company could provide the support system your project needs to thrive.",
+          "level": "low"
+        },
+        {
+          "label": "D",
+          "text": "Continue the development independently but with a structured plan, focusing on market research and risk management to maintain control and predictability in your project's growth.",
+          "level": "low"
+        }
+      ],
+      "chosen_letter": "C",
+      "chosen_level": "low"
+    },
+    {
+      "trait": "Conscientiousness",
+      "question": "During a community meeting, I have valuable information that could influence an important decision about local development. How should I share my information during the meeting?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Prepare a concise, factual presentation of your data and request a specific slot on the agenda to share it.",
+          "level": "high"
+        },
+        {
+          "label": "B",
+          "text": "Just bring it up when the topic comes up in conversation during the meeting.",
+          "level": "low"
+        },
+        {
+          "label": "C",
+          "text": "Share your thoughts casually over coffee breaks or when you catch people in a more relaxed moment.",
+          "level": "low"
+        },
+        {
+          "label": "D",
+          "text": "Draft a detailed report outlining your information and distribute it to all members prior to discussing it at the meeting.",
+          "level": "high"
+        }
+      ],
+      "chosen_letter": "B",
+      "chosen_level": "low"
+    },
+    {
+      "trait": "Conscientiousness",
+      "question": "I've just joined a local book club that meets weekly to discuss new books and share insights. The club also expects members to occasionally volunteer for community outreach programs. Should I actively participate in the weekly meetings and volunteer for the community outreach programs?",
+      "options": [
+        {
+          "label": "A",
+          "text": "You should engage actively in the weekly meetings to both contribute to and benefit from the collective knowledge of the club.",
+          "level": "high"
+        },
+        {
+          "label": "B",
+          "text": "Only sign up for community outreach when it fits easily into your schedule and feels like a fun activity to participate in.",
+          "level": "low"
+        },
+        {
+          "label": "C",
+          "text": "Feel free to attend the meetings whenever you find the book or topic particularly interesting or entertaining.",
+          "level": "low"
+        },
+        {
+          "label": "D",
+          "text": "Volunteering for community outreach will enhance your connection within the community and enrich your personal and professional networks.",
+          "level": "high"
+        }
+      ],
+      "chosen_letter": "C",
+      "chosen_level": "low"
+    },
+    {
+      "trait": "Conscientiousness",
+      "question": "I have always dreamed of becoming an artist, but I currently have a stable job that pays well and provides security for my family. Recently, I've been feeling unfulfilled and contemplating pursuing my passion for art full-time. Should I quit my job to pursue a career in art?",
+      "options": [
+        {
+          "label": "A",
+          "text": "You might want to establish a financial buffer first by saving from your current job to cover at least six months of your expenses before switching to art full-time.",
+          "level": "high"
+        },
+        {
+          "label": "B",
+          "text": "You could quit right away and figure things out as you go, turning this journey into an adventure of discovering your artistic career path.",
+          "level": "low"
+        },
+        {
+          "label": "C",
+          "text": "Why not dive in and embrace your passion immediately? Life's too short to not do what you love!",
+          "level": "low"
+        },
+        {
+          "label": "D",
+          "text": "Consider starting out by gradually reducing your current job hours and increasing the time spent on art, ensuring a balanced transition.",
+          "level": "high"
+        }
+      ],
+      "chosen_letter": "B",
+      "chosen_level": "low"
+    },
+    {
+      "trait": "Conscientiousness",
+      "question": "My colleague, Partick, has recently been promoted, and I find their new role fascinating and something I aspire to. I've been working tirelessly, hoping to achieve a similar position. Should I express my intense desire for Partick's job to my supervisor?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Just drop a casual comment to your supervisor about how cool Partick’s new role seems and mention you’d be interested in something like that someday.",
+          "level": "low"
+        },
+        {
+          "label": "B",
+          "text": "Next time you see your supervisor, mention you’ve been thinking about your career path and throw in how Partick’s job seems like a great fit for you.",
+          "level": "low"
+        },
+        {
+          "label": "C",
+          "text": "Schedule a formal meeting with your supervisor to discuss your career goals and express your interest in advancing to a position similar to Partick's.",
+          "level": "high"
+        },
+        {
+          "label": "D",
+          "text": "Prepare a detailed career development plan to present to your supervisor, highlighting the steps you are willing to take to achieve a role like Partick's.",
+          "level": "high"
+        }
+      ],
+      "chosen_letter": "A",
+      "chosen_level": "low"
+    },
+    {
+      "trait": "Conscientiousness",
+      "question": "Shanequea, a close friend, is practicing cooking for a community potluck meant to raise funds for local charities. They are nervous and unsure about their cooking skills. Should I offer constructive feedback and support to Shanequea to help improve their dish?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Tell Shanequea to just have fun with it and remind her it’s all for a good cause, so there’s no pressure to be perfect.",
+          "level": "low"
+        },
+        {
+          "label": "B",
+          "text": "Offer to help Shanequea practice her dish beforehand, ensuring she feels more prepared and confident.",
+          "level": "high"
+        },
+        {
+          "label": "C",
+          "text": "Suggest organizing a small pre-potluck tasting with close friends to provide gentle and structured feedback that might help refine the dish.",
+          "level": "high"
+        },
+        {
+          "label": "D",
+          "text": "Encourage Shanequea to choose a recipe that she enjoys making and is comfortable with, which could make the cooking process more enjoyable.",
+          "level": "low"
+        }
+      ],
+      "chosen_letter": "B",
+      "chosen_level": "high"
+    },
+    {
+      "trait": "Conscientiousness",
+      "question": "I am at the airport to catch a critical business flight that cannot be missed. However, I notice a confused elderly person who seems lost and distressed. Should I help the elderly person find their way or prioritize catching my business flight?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ensure you have checked in and that your travel details are in order, then offer brief guidance to the elderly person, directing them to the information desk or appropriate service area.",
+          "level": "high"
+        },
+        {
+          "label": "B",
+          "text": "Snap a quick picture of the area and send it to the airport's helpdesk via social media asking them to assist the elderly person, then head to your flight.",
+          "level": "low"
+        },
+        {
+          "label": "C",
+          "text": "Quickly assess how much time you have before your flight and if feasible, assist the elderly person to locate a nearby airport staff member who can help them more thoroughly.",
+          "level": "high"
+        },
+        {
+          "label": "D",
+          "text": "Maybe shout for an airport staff member who is free to come help them while you continue to your gate.",
+          "level": "low"
+        }
+      ],
+      "chosen_letter": "C",
+      "chosen_level": "high"
+    },
+    {
+      "trait": "Conscientiousness",
+      "question": "I'm out for dinner with a friend who recently lost their job and is going through a tough financial time. How should I handle the bill at the end of our meal?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Say you forgot your wallet at home and laugh it off, suggesting they can pay this time and you’ll cover it next time.",
+          "level": "low"
+        },
+        {
+          "label": "B",
+          "text": "Just chill and suggest going Dutch, or see if they want to cover the next one when they're back on their feet.",
+          "level": "low"
+        },
+        {
+          "label": "C",
+          "text": "Suggest splitting the bill according to what each person can genuinely afford, framing it as a fair approach.",
+          "level": "high"
+        },
+        {
+          "label": "D",
+          "text": "Offer to pay the bill discreetly to avoid any awkwardness, ensuring your friend feels comfortable.",
+          "level": "high"
+        }
+      ],
+      "chosen_letter": "D",
+      "chosen_level": "high"
+    },
+    {
+      "trait": "Conscientiousness",
+      "question": "I am invited to a high school graduation ceremony, but I have a crucial work deadline that conflicts with the event's timing. Should I attend the graduation ceremony?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Prioritize completing crucial work tasks early, so you might find a window to attend the graduation ceremony.",
+          "level": "high"
+        },
+        {
+          "label": "B",
+          "text": "Why not join the celebration later and catch up with everyone post-event, combining fun and duties effectively?",
+          "level": "low"
+        },
+        {
+          "label": "C",
+          "text": "Consider asking for an extension on your work deadline to ensure you can attend the graduation responsibly.",
+          "level": "high"
+        },
+        {
+          "label": "D",
+          "text": "See if you can attend just the key part of the ceremony and balance both commitments.",
+          "level": "low"
+        }
+      ],
+      "chosen_letter": "D",
+      "chosen_level": "low"
+    },
+    {
+      "trait": "Conscientiousness",
+      "question": "I never gets his party going I have been planning a small gathering at my house for weeks, meticulously organizing every detail to ensure everything is perfect. However, on the day of the party, I start to worry that not everything is up to my high standards.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Go with the flow and adapt to any surprises; sometimes the unplanned moments make for the best memories.",
+          "level": "low"
+        },
+        {
+          "label": "B",
+          "text": "Double-check the ambiance by testing the lighting and music about 30 minutes before the party to ensure they align perfectly with the event's theme.",
+          "level": "high"
+        },
+        {
+          "label": "C",
+          "text": "Create a detailed checklist for party essentials like food, décor, and music, and tick off each item as they're confirmed ready an hour before guests arrive.",
+          "level": "high"
+        },
+        {
+          "label": "D",
+          "text": "Just relax and remember that your guests are there to enjoy themselves and not to critique every detail.",
+          "level": "low"
+        }
+      ],
+      "chosen_letter": "D",
+      "chosen_level": "low"
+    },
+    {
+      "trait": "Conscientiousness",
+      "question": "I recently made a significant investment in a startup company without conducting thorough research. The company is now showing signs of financial instability. How should I address my investment in the struggling startup?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Schedule a meeting with the startup’s management to discuss their financial outlook and any recovery plans they have in place.",
+          "level": "high"
+        },
+        {
+          "label": "B",
+          "text": "Create a monitoring plan to regularly check the company’s financial statements and progress reports to stay informed about your investment.",
+          "level": "high"
+        },
+        {
+          "label": "C",
+          "text": "Just go with the flow for now and see how things play out over the next few months without making any sudden decisions.",
+          "level": "low"
+        },
+        {
+          "label": "D",
+          "text": "Why not look into other investment opportunities? It could be more fun to explore new options rather than stress over this one.",
+          "level": "low"
+        }
+      ],
+      "chosen_letter": "C",
+      "chosen_level": "low"
+    },
+    {
+      "trait": "Conscientiousness",
+      "question": "In a team meeting, I assert a point that I believe to be correct, but later evidence suggests I might be wrong. Should I stubbornly stick to my initial point or admit my mistake?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Discuss it casually next time the team meets; if it comes up, you can mention the new evidence.",
+          "level": "low"
+        },
+        {
+          "label": "B",
+          "text": "Schedule another team meeting as soon as possible to clarify your point and openly correct the mistake.",
+          "level": "high"
+        },
+        {
+          "label": "C",
+          "text": "Just send a quick message on your team chat correcting yourself, no need for formal announcements.",
+          "level": "low"
+        },
+        {
+          "label": "D",
+          "text": "Prepare a detailed correction in an email to your team, ensuring everyone is aligned with the accurate information.",
+          "level": "high"
+        }
+      ],
+      "chosen_letter": "C",
+      "chosen_level": "low"
+    },
+    {
+      "trait": "Conscientiousness",
+      "question": "I notice that my colleague, Blayden, seems to be under a lot of stress and not their usual self at work. How should I approach Blayden about their well-being?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Schedule a private meeting with Blayden to discuss their well-being in a structured and calm environment.",
+          "level": "high"
+        },
+        {
+          "label": "B",
+          "text": "Invite Blayden out for a coffee or a walk to chat about things in a more relaxed setting.",
+          "level": "low"
+        },
+        {
+          "label": "C",
+          "text": "Just pop by Blayden’s desk when you have a free moment and casually ask how they’re doing.",
+          "level": "low"
+        },
+        {
+          "label": "D",
+          "text": "Prepare a list of specific observations about changes in Blayden’s behavior to gently discuss and offer support during your conversation.",
+          "level": "high"
+        }
+      ],
+      "chosen_letter": "C",
+      "chosen_level": "low"
+    },
+    {
+      "trait": "Conscientiousness",
+      "question": "I am in a meeting with a client, Jan, who needs to sign a contract. Jan has forgotten to bring a pen. What should I do when Jan asks for a pen?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Offer Jan one of your extra pens that you always bring along for such occasions.",
+          "level": "high"
+        },
+        {
+          "label": "B",
+          "text": "Suggest that Jan use the notepad app on their phone to make a note, assuring them you'll handle the physical signature later.",
+          "level": "high"
+        },
+        {
+          "label": "C",
+          "text": "Just tell Jan it’s no big deal and to email you the signed document later.",
+          "level": "low"
+        },
+        {
+          "label": "D",
+          "text": "Ask around the room casually if someone else might have a pen Jan could borrow.",
+          "level": "low"
+        }
+      ],
+      "chosen_letter": "D",
+      "chosen_level": "low"
+    },
+    {
+      "trait": "Conscientiousness",
+      "question": "I am tasked with purchasing tickets for an important client event, but I forgot and now tickets are almost sold out. How should I handle the situation with the event tickets?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Contact the event organizers directly to explain the situation and inquire if they can accommodate your needs due to the nature of your clients.",
+          "level": "high"
+        },
+        {
+          "label": "B",
+          "text": "Maybe just call the client to be honest about the mix-up and see if they’re cool with catching the next one.",
+          "level": "low"
+        },
+        {
+          "label": "C",
+          "text": "Immediately check alternative ticket retailers or the secondary market for any available tickets, and be prepared to pay a premium if necessary.",
+          "level": "high"
+        },
+        {
+          "label": "D",
+          "text": "See if you can find something else fun and unique to do instead, and make a fresh plan to impress the client.",
+          "level": "low"
+        }
+      ],
+      "chosen_letter": "D",
+      "chosen_level": "low"
+    },
+    {
+      "trait": "Conscientiousness",
+      "question": "I've been so focused on my career that I've inadvertently started ignoring my significant other, Solar. This has started to create a distance between us. Should I continue to prioritize my work over my relationship with Solar?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Create a balanced weekly schedule that allocates time for both career and relationship, ensuring you fulfill your commitments to each without neglect.",
+          "level": "high"
+        },
+        {
+          "label": "B",
+          "text": "Why not let things flow naturally and see how they evolve with Solar without forcing a schedule?",
+          "level": "low"
+        },
+        {
+          "label": "C",
+          "text": "Schedule regular date nights or dedicated time to focus solely on Solar, ensuring it’s marked in your calendar as important as any work meeting.",
+          "level": "high"
+        },
+        {
+          "label": "D",
+          "text": "Consider being spontaneous, surprise Solar sometimes without planning to see if spontaneous interactions can rekindle the connection.",
+          "level": "low"
+        }
+      ],
+      "chosen_letter": "C",
+      "chosen_level": "high"
+    },
+    {
+      "trait": "Conscientiousness",
+      "question": "During a team-building retreat, I have the opportunity to share personal experiences and challenges with my colleagues to foster a better team environment. How should I approach sharing personal information to enhance team cohesion and demonstrate high conscientiousness?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Organize your thoughts into categories such as personal growth, teamwork, and career milestones to share in a methodical manner for clear communication.",
+          "level": "high"
+        },
+        {
+          "label": "B",
+          "text": "Just go with the flow and share spontaneous stories that seem interesting and fun at the moment.",
+          "level": "low"
+        },
+        {
+          "label": "C",
+          "text": "Talk about some unplanned adventures or unexpected turn of events in your life to keep the conversation light and engaging.",
+          "level": "low"
+        },
+        {
+          "label": "D",
+          "text": "Prepare a structured and respectful presentation focusing on challenges you've overcome that highlight your dedication and attention to detail.",
+          "level": "high"
+        }
+      ],
+      "chosen_letter": "B",
+      "chosen_level": "low"
+    },
+    {
+      "trait": "Conscientiousness",
+      "question": "In a team meeting, Tawnya proposes a strategy that I strongly believe is unethical and could harm the company's reputation. How should I address my concerns about Tawnya's proposed strategy?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Prepare a list of alternative strategies that align with the company's ethical guidelines and propose these during your next team meeting.",
+          "level": "high"
+        },
+        {
+          "label": "B",
+          "text": "Document your concerns in detail, and request a private meeting with your team leader to discuss the potential ethical issues of Tawnya’s strategy.",
+          "level": "high"
+        },
+        {
+          "label": "C",
+          "text": "Bring up your concerns casually in a team break, framing it as a thought for further discussion rather than a formal complaint.",
+          "level": "low"
+        },
+        {
+          "label": "D",
+          "text": "Mention your reservations during the team meeting humorously to gauge others' opinions without creating a tense atmosphere.",
+          "level": "low"
+        }
+      ],
+      "chosen_letter": "B",
+      "chosen_level": "high"
+    },
+    {
+      "trait": "Conscientiousness",
+      "question": "I've been helping Harly with their project for the past several weeks. It's the final week before submission, and Harly is behind schedule. I'm already overwhelmed with my workload, but I know Harly is relying on me. Should I continue to help Harly extensively to ensure their project is completed on time?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Allocate specific times to assist Harly, ensuring you can manage your workload and still support them effectively.",
+          "level": "high"
+        },
+        {
+          "label": "B",
+          "text": "Let Harly handle more of the responsibilities; you've already given a lot of help, and they might need to take the lead now.",
+          "level": "low"
+        },
+        {
+          "label": "C",
+          "text": "Create a detailed plan for the remaining days with Harly, prioritizing tasks that require your expertise to maximize efficiency.",
+          "level": "high"
+        },
+        {
+          "label": "D",
+          "text": "Suggest that Harly finds additional support or resources, as you need to focus on balancing your own tasks this week.",
+          "level": "low"
+        }
+      ],
+      "chosen_letter": "D",
+      "chosen_level": "low"
+    },
+    {
+      "trait": "Conscientiousness",
+      "question": "As a new member of the company, I am trying to integrate into the team and understand my role within the organization better. How can I contribute positively to the company culture?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Start maintaining a journal of daily achievements and ongoing projects to track your progress and contributions effectively.",
+          "level": "high"
+        },
+        {
+          "label": "B",
+          "text": "Create a detailed plan outlining how you can apply your skills to current projects and share it with your team to receive feedback.",
+          "level": "high"
+        },
+        {
+          "label": "C",
+          "text": "Offer to help colleagues with their tasks whenever you have free time, showing your willingness to collaborate and learn.",
+          "level": "low"
+        },
+        {
+          "label": "D",
+          "text": "Join in on company social events and informal gatherings to easily mingle and share ideas in a relaxed setting.",
+          "level": "low"
+        }
+      ],
+      "chosen_letter": "D",
+      "chosen_level": "low"
+    },
+    {
+      "trait": "Conscientiousness",
+      "question": "Makenlei has repeatedly missed deadlines, causing significant delays in a project I am leading. How should I address my frustration with Makenlei's performance?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Suggest to Makenlei to set personal reminders or alarms as a simple fix to help remember upcoming deadlines.",
+          "level": "low"
+        },
+        {
+          "label": "B",
+          "text": "Create a detailed performance improvement plan that outlines expectations and tracks Makenlei’s progress.",
+          "level": "high"
+        },
+        {
+          "label": "C",
+          "text": "Have a casual chat with Makenlei to see if there are any issues at work or home causing these delays.",
+          "level": "low"
+        },
+        {
+          "label": "D",
+          "text": "Schedule a formal meeting with Makenlei to review the project timelines and discuss the impact of missed deadlines.",
+          "level": "high"
+        }
+      ],
+      "chosen_letter": "C",
+      "chosen_level": "low"
+    },
+    {
+      "trait": "Extraversion",
+      "question": "I am invited to appear in a video on Vicken's YouTube channel, which has a large following. The video is about discussing different personality traits and their impact on social interactions. How should I conduct myself during the recording of the video?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Listen attentively to others and take thoughtful pauses to formulate your responses during the conversation.",
+          "level": "low"
+        },
+        {
+          "label": "B",
+          "text": "Use a lively tone and maintain strong eye contact to project confidence and energy throughout the discussion.",
+          "level": "high"
+        },
+        {
+          "label": "C",
+          "text": "Engage actively with others, share anecdotes and personal experiences to illustrate your points vividly.",
+          "level": "high"
+        },
+        {
+          "label": "D",
+          "text": "Prepare some key points in advance to stay focused and articulate your thoughts clearly during the discussion.",
+          "level": "low"
+        }
+      ],
+      "chosen_letter": "B",
+      "chosen_level": "high"
+    },
+    {
+      "trait": "Extraversion",
+      "question": "I need help understanding a new software tool that everyone at work is starting to use, and I notice a colleague who seems proficient with it. How should I approach my colleague for help with the software?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Send a polite email to your colleague asking for a convenient time to have a one-on-one session about the software.",
+          "level": "low"
+        },
+        {
+          "label": "B",
+          "text": "Suggest organizing a group training session with your colleague leading it, which could be fun and engaging for the whole team.",
+          "level": "high"
+        },
+        {
+          "label": "C",
+          "text": "Invite your colleague for a casual coffee break where you can both discuss the software and share tips.",
+          "level": "high"
+        },
+        {
+          "label": "D",
+          "text": "Prepare specific questions about the software and ask your colleague if they can answer them over a scheduled call or meeting.",
+          "level": "low"
+        }
+      ],
+      "chosen_letter": "C",
+      "chosen_level": "high"
+    },
+    {
+      "trait": "Extraversion",
+      "question": "I am leading a project at work and need to announce the project plan to my team. How should I present the plan to ensure it is well-received and encourages team collaboration?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Use a straightforward email or memo format to explain the project plan, ensuring it’s clear and includes bullet points for easy reference during a follow-up small group or one-on-one discussions.",
+          "level": "low"
+        },
+        {
+          "label": "B",
+          "text": "Kick off the meeting with an energizing group activity to build excitement, followed by a presentation of the project plan with plenty of visuals and enthusiasm.",
+          "level": "high"
+        },
+        {
+          "label": "C",
+          "text": "Prepare detailed written documentation of the project plan to distribute beforehand, then hold a quiet Q&A session to address any questions or concerns.",
+          "level": "low"
+        },
+        {
+          "label": "D",
+          "text": "Organize an interactive workshop where team members can actively participate in discussion and brainstorming activities about the project plan.",
+          "level": "high"
+        }
+      ],
+      "chosen_letter": "B",
+      "chosen_level": "high"
+    },
+    {
+      "trait": "Extraversion",
+      "question": "At a dinner party with friends, the conversation turns to sharing funny and embarrassing stories from our past. How should I share my embarrassing story to enhance the mood and camaraderie among friends?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Keep the story concise and focus more on what you learned from the experience, giving it a reflective angle.",
+          "level": "low"
+        },
+        {
+          "label": "B",
+          "text": "Start with a vivid, animated description of the setting and characters involved to draw everyone in.",
+          "level": "high"
+        },
+        {
+          "label": "C",
+          "text": "Choose a story that is relatable to the group, ensuring it's something others might have experienced as well.",
+          "level": "low"
+        },
+        {
+          "label": "D",
+          "text": "Add exaggerated body gestures and different voices for the people in your story to make it more engaging and humorous.",
+          "level": "high"
+        }
+      ],
+      "chosen_letter": "D",
+      "chosen_level": "high"
+    },
+    {
+      "trait": "Extraversion",
+      "question": "While walking through a part of the city known for its economic challenges, I am moved by the conditions I see. How can I use my extroverted personality to make a positive impact in this community?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Lead a community cleaning project where you can work side by side with the residents to beautify the area while chatting and getting to know them.",
+          "level": "high"
+        },
+        {
+          "label": "B",
+          "text": "Organize a community event or street fair that brings people together for networking, fun, and raising awareness.",
+          "level": "high"
+        },
+        {
+          "label": "C",
+          "text": "Volunteer for a local organization that works in the community, offering your skills in a way that supports their ongoing initiatives.",
+          "level": "low"
+        },
+        {
+          "label": "D",
+          "text": "Consider starting a blog or social media campaign to share stories from the community and attract attention to its needs.",
+          "level": "low"
+        }
+      ],
+      "chosen_letter": "B",
+      "chosen_level": "high"
+    },
+    {
+      "trait": "Extraversion",
+      "question": "I am hosting a dinner party for my colleagues to build better relationships outside of work. What approach should I take during the dinner to ensure a welcoming and engaging environment for my colleagues?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Arrange the seating to encourage small group conversations, perhaps with place cards that mix departments or roles.",
+          "level": "low"
+        },
+        {
+          "label": "B",
+          "text": "Kick off the evening with an icebreaker game that gets everyone talking and sharing fun personal stories!",
+          "level": "high"
+        },
+        {
+          "label": "C",
+          "text": "Provide a quiet space where colleagues can relax and have one-on-one conversations away from the main gathering.",
+          "level": "low"
+        },
+        {
+          "label": "D",
+          "text": "Consider setting up a DIY cocktail or mocktail station where everyone can mix their own drinks and mingle.",
+          "level": "high"
+        }
+      ],
+      "chosen_letter": "B",
+      "chosen_level": "high"
+    },
+    {
+      "trait": "Extraversion",
+      "question": "I am at a car dealership, excited about buying a new car but also feeling a bit overwhelmed by the choices and the sales tactics. How should I interact with the salesperson to get the best deal on a new car?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Request to review the pricing information in a quiet place at the dealership to give yourself an opportunity to think it over without pressure.",
+          "level": "low"
+        },
+        {
+          "label": "B",
+          "text": "Express genuine enthusiasm about the features you like, it can make the salesperson eager to offer you a good deal to match your excitement.",
+          "level": "high"
+        },
+        {
+          "label": "C",
+          "text": "Ask for detailed breakdowns of the financing options, it helps to clearly understand each part of the deal without getting overwhelmed by sales jargon.",
+          "level": "low"
+        },
+        {
+          "label": "D",
+          "text": "Compliment the car options they show you, then pivot to asking for special offers they might have right now to keep the conversation lively and engaging!",
+          "level": "high"
+        }
+      ],
+      "chosen_letter": "D",
+      "chosen_level": "high"
+    },
+    {
+      "trait": "Extraversion",
+      "question": "I am at a crowded tourist attraction and notice Aubriegh struggling to take a selfie with a beautiful backdrop. What should I do to help Aubriegh capture this moment?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Join Aubriegh in the selfie to add a fun, friendly touch to their memory of this bustling tourist spot.",
+          "level": "high"
+        },
+        {
+          "label": "B",
+          "text": "Suggest to Aubriegh that they use a selfie stick to better capture both themselves and the backdrop in the photo.",
+          "level": "low"
+        },
+        {
+          "label": "C",
+          "text": "Offer to take the photo for Aubriegh, so they can have a full-frame shot that includes all of the beautiful scenery!",
+          "level": "high"
+        },
+        {
+          "label": "D",
+          "text": "Advise Aubriegh on finding a less crowded angle or spot nearby to take a clearer, more composed photo.",
+          "level": "low"
+        }
+      ],
+      "chosen_letter": "A",
+      "chosen_level": "high"
+    },
+    {
+      "trait": "Extraversion",
+      "question": "I decide to throw a massive welcome party for a new colleague to show how friendly and inclusive our office culture is. How should I manage the party to make a great impression without overwhelming the new colleague?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Set up a quiet area at the venue where your colleague can have one-on-one chats with teammates, opting for a more subdued interaction.",
+          "level": "low"
+        },
+        {
+          "label": "B",
+          "text": "Kick off the party with an energetic group activity like a fun icebreaker game that involves everyone!",
+          "level": "high"
+        },
+        {
+          "label": "C",
+          "text": "Create a themed selfie station with props related to your workplace or industry to keep the vibes lively and playful.",
+          "level": "high"
+        },
+        {
+          "label": "D",
+          "text": "Organize a small guided tour around the office or a brief meet-and-greet to help the new colleague ease into the group gradually.",
+          "level": "low"
+        }
+      ],
+      "chosen_letter": "B",
+      "chosen_level": "high"
+    },
+    {
+      "trait": "Extraversion",
+      "question": "During a team meeting at work, I notice that several colleagues seem uninterested or upset when I dominate the conversation, but I'm tempted to keep sharing my ideas. How should I proceed in this meeting?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Maintain enthusiasm but allow pauses after making key points, giving others the chance to jump in and contribute.",
+          "level": "high"
+        },
+        {
+          "label": "B",
+          "text": "Consider jotting down notes and prioritize sharing only the most critical ideas to keep the discussion concise and inclusive.",
+          "level": "low"
+        },
+        {
+          "label": "C",
+          "text": "Observe who seems uninterested and directly invite them to share their thoughts, ensuring a more balanced conversation.",
+          "level": "low"
+        },
+        {
+          "label": "D",
+          "text": "Try to engage others by asking for their opinions after sharing your own ideas, keeping the energy high and collaborative.",
+          "level": "high"
+        }
+      ],
+      "chosen_letter": "D",
+      "chosen_level": "high"
+    },
+    {
+      "trait": "Extraversion",
+      "question": "In a team project, I realize that my suggested strategy was flawed and led to a setback. How should I handle this situation to maintain trust and teamwork?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Document a thorough analysis of the error and distribute it with proposed solutions to invite feedback in a more structured format.",
+          "level": "low"
+        },
+        {
+          "label": "B",
+          "text": "Organize a team-building activity to boost morale and strengthen bonds, ensuring everyone remains motivated to re-strategize.",
+          "level": "high"
+        },
+        {
+          "label": "C",
+          "text": "Email the team detailing the mistake, your understanding of its impacts, and request for input on corrective actions.",
+          "level": "low"
+        },
+        {
+          "label": "D",
+          "text": "Immediately call a team meeting to openly discuss what went wrong and explore all ideas for how to move forward together.",
+          "level": "high"
+        }
+      ],
+      "chosen_letter": "D",
+      "chosen_level": "high"
+    },
+    {
+      "trait": "Extraversion",
+      "question": "At a social event, I notice Deveshi wearing a particularly stunning dress and feel compelled to compliment them. Should I compliment Deveshi on their dress?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Why not give Deveshi a compliment on the dress and suggest taking a group photo together?",
+          "level": "high"
+        },
+        {
+          "label": "B",
+          "text": "Consider waiting for a quiet moment to tell Deveshi privately that you really liked their dress.",
+          "level": "low"
+        },
+        {
+          "label": "C",
+          "text": "You could send Deveshi a polite text complimenting the dress if you're feeling a bit shy at the event.",
+          "level": "low"
+        },
+        {
+          "label": "D",
+          "text": "Definitely compliment Deveshi, and maybe ask where they got the dress to strike up a fun conversation!",
+          "level": "high"
+        }
+      ],
+      "chosen_letter": "D",
+      "chosen_level": "high"
+    },
+    {
+      "trait": "Extraversion",
+      "question": "I have just been promoted at work, and I am reflecting on the support and opportunities provided by my company. How should I express my gratitude in a way that reinforces positive relationships and personal growth?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Organize a small celebration event at work to personally thank everyone who supported you and share your excitement about your new role.",
+          "level": "high"
+        },
+        {
+          "label": "B",
+          "text": "Request a few minutes in the next team meeting to express your gratitude formally and discuss how you aim to contribute to the team’s success moving forward.",
+          "level": "low"
+        },
+        {
+          "label": "C",
+          "text": "Write personalized thank-you notes to key individuals who have supported you, highlighting specific ways they have helped in your development.",
+          "level": "low"
+        },
+        {
+          "label": "D",
+          "text": "Create a vibrant, heartfelt thank-you post on the company’s internal social media platform, expressing your appreciation and looking forward to future projects.",
+          "level": "high"
+        }
+      ],
+      "chosen_letter": "A",
+      "chosen_level": "high"
+    },
+    {
+      "trait": "Extraversion",
+      "question": "At a community car show, I help Jaykwon get their classic car started, which has been a crowd pleaser. How can I use this moment to enhance my social interactions at the car show?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Invite others nearby to get a group photo with the classic car once it’s running, to cherish the memory and make new friends!",
+          "level": "high"
+        },
+        {
+          "label": "B",
+          "text": "Offer to share detailed knowledge or resources about the maintenance of classic cars to interested individuals who gather around.",
+          "level": "low"
+        },
+        {
+          "label": "C",
+          "text": "Suggest to Jaykwon to put up a sign with the car’s backstory and restoration process which those interested can read at their own pace.",
+          "level": "low"
+        },
+        {
+          "label": "D",
+          "text": "Organize an impromptu talk about the history and specifics of classic cars like Jaykwon's, encouraging questions and discussions among the attendees.",
+          "level": "high"
+        }
+      ],
+      "chosen_letter": "A",
+      "chosen_level": "high"
+    },
+    {
+      "trait": "Extraversion",
+      "question": "In a team meeting, a complex issue arises that I know Jashun has the expertise to address, but they seem hesitant to speak up. How can I encourage Jashun to share their knowledge and contribute to resolving the issue?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Consider a follow-up one-on-one chat with Jashun where you can express the team’s need for their expertise in a more private, low-pressure setting.",
+          "level": "low"
+        },
+        {
+          "label": "B",
+          "text": "Why not directly ask Jashun to share their insights during the meeting by highlighting how valuable their expertise is to the topic?",
+          "level": "high"
+        },
+        {
+          "label": "C",
+          "text": "Perhaps send Jashun a pre-meeting note suggesting that you'd value their input on the specific topic because of their expertise.",
+          "level": "low"
+        },
+        {
+          "label": "D",
+          "text": "Encourage a group brainstorming session where everyone contributes, making it a dynamic conversation, and casually bring Jashun into the discussion.",
+          "level": "high"
+        }
+      ],
+      "chosen_letter": "D",
+      "chosen_level": "high"
+    },
+    {
+      "trait": "Extraversion",
+      "question": "I am at a new, highly-rated restaurant with a group of friends who are eager to try out different dishes. How should I contribute to the group's dining experience?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Why not suggest ordering a variety of dishes to share, so everyone can try a bit of everything on the menu?",
+          "level": "high"
+        },
+        {
+          "label": "B",
+          "text": "Maybe you could offer to take note of everyone's preferences and place the group's order with the server to streamline the process.",
+          "level": "low"
+        },
+        {
+          "label": "C",
+          "text": "How about initiating a game where each person picks a surprise dish for someone else at the table?",
+          "level": "high"
+        },
+        {
+          "label": "D",
+          "text": "Consider recommending a dish that you know is highly acclaimed or unique to this restaurant to help your friends make an informed choice.",
+          "level": "low"
+        }
+      ],
+      "chosen_letter": "C",
+      "chosen_level": "high"
+    },
+    {
+      "trait": "Extraversion",
+      "question": "I'm excited about moving to a new city and quickly sign the lease for an apartment without reading it thoroughly. What should I do after realizing I may have been too hasty in signing the lease?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Host a meet-up with neighbors to get their thoughts on the lease terms and gather any community advice.",
+          "level": "high"
+        },
+        {
+          "label": "B",
+          "text": "Why not throw a small party to celebrate your move and discuss the lease details with friends who might have insight?",
+          "level": "high"
+        },
+        {
+          "label": "C",
+          "text": "Carefully review the lease now, highlighting any clauses you're unsure about, and prepare questions for the landlord.",
+          "level": "low"
+        },
+        {
+          "label": "D",
+          "text": "Consult a legal expert to examine the lease document and advise you on any potentially unfavorable terms.",
+          "level": "low"
+        }
+      ],
+      "chosen_letter": "C",
+      "chosen_level": "low"
+    },
+    {
+      "trait": "Extraversion",
+      "question": "I am at a local farmer's market and see a new cheese vendor with an interesting selection. I am curious about trying some unique flavors they offer. Should I strike up a conversation with the vendor and ask about their products?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Why not ask the vendor for a few samples? It could lead to discovering a new favorite cheese.",
+          "level": "high"
+        },
+        {
+          "label": "B",
+          "text": "Consider observing the types of cheese available and read any displayed information before initiating a conversation.",
+          "level": "low"
+        },
+        {
+          "label": "C",
+          "text": "You might wait and see if the vendor offers information or samples to other customers first, which could help inform your questions.",
+          "level": "low"
+        },
+        {
+          "label": "D",
+          "text": "Definitely start chatting with the vendor! It’s a great chance to learn about the unique cheeses they offer.",
+          "level": "high"
+        }
+      ],
+      "chosen_letter": "D",
+      "chosen_level": "high"
+    },
+    {
+      "trait": "Extraversion",
+      "question": "I received an email from a colleague complaining about my recent assertive behavior in meetings which they found too dominating. How should I respond to the email about my behavior in meetings?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Write a thoughtful email acknowledging their feelings and explain your perspective, ensuring to express your openness to adapt your approach.",
+          "level": "low"
+        },
+        {
+          "label": "B",
+          "text": "Consider asking them for specific examples of the behavior that concerned them and suggest a follow-up meeting to discuss this in a more detailed, one-on-one setting.",
+          "level": "low"
+        },
+        {
+          "label": "C",
+          "text": "Suggest setting up a team meeting where everyone can share their thoughts on communication styles, ensuring a robust and inclusive approach.",
+          "level": "high"
+        },
+        {
+          "label": "D",
+          "text": "Reply to their email by inviting them for a coffee or lunch to discuss their concerns and how you can both move forward positively.",
+          "level": "high"
+        }
+      ],
+      "chosen_letter": "D",
+      "chosen_level": "high"
+    },
+    {
+      "trait": "Extraversion",
+      "question": "I have always been known for my outgoing nature, but recently I've been feeling more confident in my abilities to lead group activities at work. During a team meeting, I notice an opportunity to take charge of a new project that could benefit from my leadership. Should I volunteer to lead the new project during the meeting?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Maybe outline a proposal first on how you plan to manage the project and email it to your supervisor before announcing your intention to lead.",
+          "level": "low"
+        },
+        {
+          "label": "B",
+          "text": "Absolutely, jump in and volunteer to lead the project during the meeting to showcase your enthusiasm and leadership skills!",
+          "level": "high"
+        },
+        {
+          "label": "C",
+          "text": "Consider suggesting in the meeting that you're willing to help organize the project while collaborating closely with a co-leader.",
+          "level": "low"
+        },
+        {
+          "label": "D",
+          "text": "Why not speak up and offer your innovative ideas for the project, demonstrating your initiative and confidence to everyone?",
+          "level": "high"
+        }
+      ],
+      "chosen_letter": "B",
+      "chosen_level": "high"
+    },
+    {
+      "trait": "Agreeableness",
+      "question": "During a team meeting, I feel a strong urge to share my dreams about a new project idea that could benefit the company but is outside the current agenda. Should I bring up my new project idea during this meeting?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Perhaps, consider scheduling a separate meeting specifically dedicated to discussing innovative project ideas where yours can be thoroughly evaluated.",
+          "level": "high"
+        },
+        {
+          "label": "B",
+          "text": "Just bring it up; if it's a good idea, it's worth interrupting the agenda.",
+          "level": "low"
+        },
+        {
+          "label": "C",
+          "text": "State your idea confidently during the meeting; innovative thoughts should not be sidelined by rigid agendas.",
+          "level": "low"
+        },
+        {
+          "label": "D",
+          "text": "You could wait until the end of the meeting and politely ask if you could share an idea for future discussions.",
+          "level": "high"
+        }
+      ],
+      "chosen_letter": "D",
+      "chosen_level": "high"
+    },
+    {
+      "trait": "Agreeableness",
+      "question": "There's a community event aimed at raising funds for local schools, but I had initially planned to spend the day relaxing at home. Should I change my plans and attend the fundraising event?",
+      "options": [
+        {
+          "label": "A",
+          "text": "If attending doesn’t truly interest you or relate to your priorities, it’s reasonable to keep your day off as planned.",
+          "level": "low"
+        },
+        {
+          "label": "B",
+          "text": "You should stick to your original plan for a day of relaxation if that’s what you feel you need right now.",
+          "level": "low"
+        },
+        {
+          "label": "C",
+          "text": "You could attend the event for part of the day to show support and still have time to relax at home.",
+          "level": "high"
+        },
+        {
+          "label": "D",
+          "text": "Consider adjusting your plans to participate; it’s a meaningful way to contribute to your community and local schools.",
+          "level": "high"
+        }
+      ],
+      "chosen_letter": "D",
+      "chosen_level": "high"
+    },
+    {
+      "trait": "Agreeableness",
+      "question": "I hear rumors that Melicia has been taking credit for work they did not do, which is demoralizing other team members. Should I report Melicia’s behavior to our supervisor?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Consider organizing a team intervention where everyone can openly discuss their feelings about fairness and recognition.",
+          "level": "high"
+        },
+        {
+          "label": "B",
+          "text": "Document specific instances where Melicia took undue credit and present these to your supervisor as evidence.",
+          "level": "low"
+        },
+        {
+          "label": "C",
+          "text": "You could speak with Melicia first to express your concerns and give them a chance to rectify the situation themselves.",
+          "level": "high"
+        },
+        {
+          "label": "D",
+          "text": "Report the behavior to your supervisor immediately to prevent further damage to the team's morale.",
+          "level": "low"
+        }
+      ],
+      "chosen_letter": "C",
+      "chosen_level": "high"
+    },
+    {
+      "trait": "Agreeableness",
+      "question": "I notice that Bravon seems to be having a tough week at work, juggling multiple projects and staying late every day. How should I offer support to Bravon?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Offer to bring Bravon lunch or snacks at work to help him stay energized and feel supported.",
+          "level": "high"
+        },
+        {
+          "label": "B",
+          "text": "Send Bravon a quick text or note expressing your recognition of his hard work and offering your encouragement.",
+          "level": "high"
+        },
+        {
+          "label": "C",
+          "text": "Advise Bravon to take a firm stance on leaving work on time to maintain a healthier work-life balance.",
+          "level": "low"
+        },
+        {
+          "label": "D",
+          "text": "Suggest that Bravon should delegate some of his tasks to others, ensuring he doesn’t burn out.",
+          "level": "low"
+        }
+      ],
+      "chosen_letter": "B",
+      "chosen_level": "high"
+    },
+    {
+      "trait": "Agreeableness",
+      "question": "I am assigned a new role at work that I feel does not align with my career goals or interests. How should I address my concerns about the new role with my manager?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Make it clear to your manager that you expect roles that advance your career interests, or else it might impact your job satisfaction and performance negatively.",
+          "level": "low"
+        },
+        {
+          "label": "B",
+          "text": "You might consider scheduling a meeting with your manager to express your gratitude for the opportunity and gently discuss how the role might be aligned more closely with your career aspirations.",
+          "level": "high"
+        },
+        {
+          "label": "C",
+          "text": "Directly inform your manager that the current role doesn't align with your career goals and ask for roles that fascinate you more.",
+          "level": "low"
+        },
+        {
+          "label": "D",
+          "text": "Perhaps you could offer suggestions on additional projects or roles that match your skills and interests, letting your manager know you are eager to contribute more effectively.",
+          "level": "high"
+        }
+      ],
+      "chosen_letter": "B",
+      "chosen_level": "high"
+    },
+    {
+      "trait": "Agreeableness",
+      "question": "At a family gathering, I notice one of my younger cousins looks bored and a bit sad while the adults are busy talking. How can I improve the situation for my younger cousin?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Tell your cousin to find something productive to do; maybe suggest reading a book or exploring the area.",
+          "level": "low"
+        },
+        {
+          "label": "B",
+          "text": "You could bring your cousin some snacks or a drink, and see if they want to talk or watch a funny video with you.",
+          "level": "high"
+        },
+        {
+          "label": "C",
+          "text": "Why not sit with your cousin and ask if they’d like to play a game or draw something together?",
+          "level": "high"
+        },
+        {
+          "label": "D",
+          "text": "Recommend that your cousin go play outside or find other kids to hang out with, rather than sitting around.",
+          "level": "low"
+        }
+      ],
+      "chosen_letter": "C",
+      "chosen_level": "high"
+    },
+    {
+      "trait": "Agreeableness",
+      "question": "At work, everyone seems to need something from me at the same time. My colleagues are asking for help with their projects, and my boss wants me to prepare a presentation by tomorrow. How should I handle this overwhelming demand on my time and energy?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Perhaps organize a brief meeting with your boss and colleagues to set clear expectations and coordinate deadlines effectively.",
+          "level": "high"
+        },
+        {
+          "label": "B",
+          "text": "Inform your colleagues that you need to focus on the presentation for your boss now and that they’ll need to wait or find help elsewhere.",
+          "level": "low"
+        },
+        {
+          "label": "C",
+          "text": "Try to prioritize your tasks based on deadlines and importance, and let your colleagues know when you can realistically assist them.",
+          "level": "high"
+        },
+        {
+          "label": "D",
+          "text": "Set firm boundaries by telling everyone that you will only be available for urgent queries until your presentation is completed.",
+          "level": "low"
+        }
+      ],
+      "chosen_letter": "C",
+      "chosen_level": "high"
+    },
+    {
+      "trait": "Agreeableness",
+      "question": "During a group dinner, the bill arrives, and it's significantly higher than expected. I notice that Matao, who ordered the most expensive items, is avoiding contributing their fair share. Should I cover the extra cost to avoid confrontation and ensure the bill is paid?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Suggest that the bill be itemized so everyone pays exactly for what they ordered, ensuring Matao covers his higher expenses.",
+          "level": "low"
+        },
+        {
+          "label": "B",
+          "text": "Perhaps suggest that everyone covers their own orders individually to smoothly resolve the payment without direct confrontation.",
+          "level": "high"
+        },
+        {
+          "label": "C",
+          "text": "Politely but firmly ask Matao to pay for the items they ordered, since it's only fair he contributes according to what was consumed.",
+          "level": "low"
+        },
+        {
+          "label": "D",
+          "text": "You could offer to split the bill evenly among everyone, subtly reminding Matao of the group etiquette in sharing costs.",
+          "level": "high"
+        }
+      ],
+      "chosen_letter": "C",
+      "chosen_level": "low"
+    },
+    {
+      "trait": "Agreeableness",
+      "question": "At a networking event, I notice a newcomer standing alone, looking uncomfortable and unsure of whom to talk to. How should I approach the situation to make the newcomer feel welcome?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Approach the newcomer with a warm smile and invite them to join your group for a casual chat.",
+          "level": "high"
+        },
+        {
+          "label": "B",
+          "text": "Suggest the newcomer attend a specific talk or booth that aligns with their apparent interests or industry to help them engage on their own.",
+          "level": "low"
+        },
+        {
+          "label": "C",
+          "text": "Offer to introduce the newcomer to other attendees, highlighting common interests that might help kickstart their conversations.",
+          "level": "high"
+        },
+        {
+          "label": "D",
+          "text": "Directly ask the newcomer what brings them to the event and steer the conversation towards professional topics of mutual benefit.",
+          "level": "low"
+        }
+      ],
+      "chosen_letter": "A",
+      "chosen_level": "high"
+    },
+    {
+      "trait": "Agreeableness",
+      "question": "I am part of a team at work tasked with delivering a project by a tight deadline. The workload has increased unexpectedly, and everyone's effort is crucial. How should I address the situation where a team member is consistently missing deadlines?",
+      "options": [
+        {
+          "label": "A",
+          "text": "You might suggest a team meeting to collectively brainstorm strategies for effective time management, ensuring everyone feels supported and accountable.",
+          "level": "high"
+        },
+        {
+          "label": "B",
+          "text": "Consider organizing a supportive one-on-one meeting with your team member to understand any obstacles they're facing and offer help.",
+          "level": "high"
+        },
+        {
+          "label": "C",
+          "text": "Directly inform the team member that their repeated missed deadlines are impacting the entire team's performance, and insist on immediate improvement.",
+          "level": "low"
+        },
+        {
+          "label": "D",
+          "text": "Recommend to your supervisor to reassess the team member's responsibilities or suitability for the role if their performance doesn't change.",
+          "level": "low"
+        }
+      ],
+      "chosen_letter": "B",
+      "chosen_level": "high"
+    },
+    {
+      "trait": "Agreeableness",
+      "question": "I am known for being generous and often share my belongings with my friends. One day, Makia asks to borrow my new laptop for a project since theirs is currently broken. Should I lend my new laptop to Makia, knowing that they have a history of being careless with their belongings?",
+      "options": [
+        {
+          "label": "A",
+          "text": "I suggest telling Makia to repair their own laptop or find an alternative, since it's a big risk to lend your new laptop to someone careless.",
+          "level": "low"
+        },
+        {
+          "label": "B",
+          "text": "Perhaps you could supervise or join Makia while they use your laptop, ensuring it's used properly and remains undamaged.",
+          "level": "high"
+        },
+        {
+          "label": "C",
+          "text": "You might offer to help find a rental service or a reasonably priced repair option for Makia's broken laptop instead of lending yours.",
+          "level": "low"
+        },
+        {
+          "label": "D",
+          "text": "You could lend the laptop but maybe set some guidelines on how it should be used and cared for.",
+          "level": "high"
+        }
+      ],
+      "chosen_letter": "D",
+      "chosen_level": "high"
+    },
+    {
+      "trait": "Agreeableness",
+      "question": "I am aware that some of my colleagues at work have been under a lot of stress due to an upcoming project deadline. They seem overwhelmed, and I notice their mood impacting their work and interactions. How should I respond to help my colleagues feel better?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Perhaps you could offer to help them with their tasks if you have some spare capacity; it's a great way to lessen their load.",
+          "level": "high"
+        },
+        {
+          "label": "B",
+          "text": "Recommend they take personal responsibility to manage their time better and perhaps use proven stress-reduction techniques like meditation or brief exercise.",
+          "level": "low"
+        },
+        {
+          "label": "C",
+          "text": "Organize a group lunch where everyone can relax a bit and enjoy some downtime away from work pressure.",
+          "level": "high"
+        },
+        {
+          "label": "D",
+          "text": "Suggest they prioritize their tasks and focus on what's critical, dismissing less important activities for now.",
+          "level": "low"
+        }
+      ],
+      "chosen_letter": "C",
+      "chosen_level": "high"
+    },
+    {
+      "trait": "Agreeableness",
+      "question": "I receive several letters from old friends asking for emotional support and advice on their personal issues. While I want to help, this happens during a particularly busy and stressful period for me. Should I dedicate time to respond thoughtfully to each letter, despite my current workload and stress?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Politely inform your friends that you are under a lot of pressure right now and suggest they seek professional help or a therapist.",
+          "level": "low"
+        },
+        {
+          "label": "B",
+          "text": "Recommend resources or books related to their issues instead of writing detailed personal responses, to efficiently manage your time and stress.",
+          "level": "low"
+        },
+        {
+          "label": "C",
+          "text": "Consider setting aside a small, specific time each week to respond to these letters, making it a relaxing and enjoyable ritual.",
+          "level": "high"
+        },
+        {
+          "label": "D",
+          "text": "You might start your replies with an acknowledgment of your current time limitations, but ensure you offer empathetic advice as much as you can.",
+          "level": "high"
+        }
+      ],
+      "chosen_letter": "C",
+      "chosen_level": "high"
+    },
+    {
+      "trait": "Agreeableness",
+      "question": "I hear about the sudden death of a colleague, Rezin, with whom I had a professional but friendly relationship. The office atmosphere is heavy with grief. How should I respond to this situation in the workplace?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Keep discussions professional and focused on work to maintain productivity and avoid excessive emotional discussions.",
+          "level": "low"
+        },
+        {
+          "label": "B",
+          "text": "Offer to coordinate or contribute to a memorial service in the office to honor your colleague’s memory and bring people together in support.",
+          "level": "high"
+        },
+        {
+          "label": "C",
+          "text": "Suggest to management the implementation of a moment of silence rather than lengthy events, to quickly acknowledge the loss and move forward.",
+          "level": "low"
+        },
+        {
+          "label": "D",
+          "text": "Reach out to your coworkers with a heartfelt message and check in on them during this hard time, ensuring they feel supported.",
+          "level": "high"
+        }
+      ],
+      "chosen_letter": "D",
+      "chosen_level": "high"
+    },
+    {
+      "trait": "Agreeableness",
+      "question": "At a company event, everyone decides to go to a bar afterwards. I don't really enjoy the bar scene and have an early morning the next day. Should I go with my colleagues to the bar?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Politely decline the invitation, stating that you have plans early in the morning and need your rest.",
+          "level": "low"
+        },
+        {
+          "label": "B",
+          "text": "You could go to the bar just for a short while, to make a brief appearance and show support to your colleagues.",
+          "level": "high"
+        },
+        {
+          "label": "C",
+          "text": "Maybe offer to drive some of your colleagues there and back; this way, you have a reason to leave early and help out.",
+          "level": "high"
+        },
+        {
+          "label": "D",
+          "text": "Just say no if you're not into it, and don't worry about what others think - your comfort and needs are your priority.",
+          "level": "low"
+        }
+      ],
+      "chosen_letter": "C",
+      "chosen_level": "high"
+    },
+    {
+      "trait": "Agreeableness",
+      "question": "I am organizing a team outing and know that one of my colleagues, Rendy, has severe dietary restrictions. I'm considering restaurants that might not fully accommodate Rendy's needs but are popular choices among other colleagues. How should I handle the restaurant selection for the team outing?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Just pick the restaurant most people prefer; Rendy can decide to join or skip based on the menu available.",
+          "level": "low"
+        },
+        {
+          "label": "B",
+          "text": "Advise Rendy about the restaurant choice ahead of time and allow him to bring his own meal if the selected venue cannot cater to his restrictions.",
+          "level": "low"
+        },
+        {
+          "label": "C",
+          "text": "Consider choosing a restaurant that offers a varied menu, ensuring options are available for Rendy while still appealing to the rest of the team.",
+          "level": "high"
+        },
+        {
+          "label": "D",
+          "text": "Contact the popular restaurants in advance to see if they can create a special meal that accommodates Rendy's dietary needs.",
+          "level": "high"
+        }
+      ],
+      "chosen_letter": "C",
+      "chosen_level": "high"
+    },
+    {
+      "trait": "Agreeableness",
+      "question": "While walking home late at night, I encounter Summer visibly upset and holding a knife. They seem to be in a distressing mental state. Should I approach Summer to help them?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Offer to sit with Summer at a nearby bench or safe place to help them calm down and talk things through.",
+          "level": "high"
+        },
+        {
+          "label": "B",
+          "text": "Call the authorities to handle the situation as they are trained to deal with such emergencies.",
+          "level": "low"
+        },
+        {
+          "label": "C",
+          "text": "Keep your distance and observe first to ensure your own safety before deciding to act.",
+          "level": "low"
+        },
+        {
+          "label": "D",
+          "text": "Approach Summer calmly, ask if they need help or if there’s someone you can call for them.",
+          "level": "high"
+        }
+      ],
+      "chosen_letter": "D",
+      "chosen_level": "high"
+    },
+    {
+      "trait": "Agreeableness",
+      "question": "I am planning a weekend getaway with my friends, including Zhiyuan, who has recently been through a tough time and expressed a desire for a quiet, relaxing retreat rather than an adventurous one. How should I handle the planning to accommodate Zhiyuan's wishes?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Organize activities like gentle yoga sessions or guided meditation that promote relaxation and are inclusive for everyone, especially for Zhiyuan.",
+          "level": "high"
+        },
+        {
+          "label": "B",
+          "text": "Just inform everyone to keep it down around Zhiyuan; otherwise, plan as you normally would.",
+          "level": "low"
+        },
+        {
+          "label": "C",
+          "text": "Suggest that Zhiyuan brings some personal entertainment or relaxation tools, as the rest might prefer some light adventures during the trip.",
+          "level": "low"
+        },
+        {
+          "label": "D",
+          "text": "Choose a serene location like a quiet beachfront or a cozy mountain cabin where Zhiyuan can relax and feel at ease.",
+          "level": "high"
+        }
+      ],
+      "chosen_letter": "D",
+      "chosen_level": "high"
+    },
+    {
+      "trait": "Agreeableness",
+      "question": "I am going through a financially rough phase after a recent job loss, making it difficult to meet my basic needs. How should I manage offers of financial help from friends?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Graciously accept the help offered by your friends, ensuring them that their support is appreciated and valued during this tough time.",
+          "level": "high"
+        },
+        {
+          "label": "B",
+          "text": "Set clear terms for repayment before accepting any financial assistance to maintain boundaries and independence.",
+          "level": "low"
+        },
+        {
+          "label": "C",
+          "text": "Politely discuss with your friends that any support should be a temporary lift until you regain financial stability, to prevent any future misunderstandings.",
+          "level": "high"
+        },
+        {
+          "label": "D",
+          "text": "Only accept financial help if it comes with no strings attached, ensuring you maintain control over your financial decisions and personal life.",
+          "level": "low"
+        }
+      ],
+      "chosen_letter": "A",
+      "chosen_level": "high"
+    },
+    {
+      "trait": "Agreeableness",
+      "question": "My boss has asked me to stay late to finish a task that is crucial for an upcoming presentation. I had plans with friends that evening. Should I stay late to help my boss with the presentation?",
+      "options": [
+        {
+          "label": "A",
+          "text": "It'd be reasonable to ask your boss if you can contribute substantially during regular hours, as your personal time is also valuable.",
+          "level": "low"
+        },
+        {
+          "label": "B",
+          "text": "You should consider staying late as it might help build a good rapport with your boss and show your commitment to the team’s success.",
+          "level": "high"
+        },
+        {
+          "label": "C",
+          "text": "You might suggest an alternative solution to your boss, like coming in early the next morning instead, so you can keep your plans with friends.",
+          "level": "low"
+        },
+        {
+          "label": "D",
+          "text": "Perhaps you could reschedule your outing with friends and explain the situation to them; they’ll likely understand and support your decision to prioritize an important work commitment.",
+          "level": "high"
+        }
+      ],
+      "chosen_letter": "B",
+      "chosen_level": "high"
+    },
+    {
+      "trait": "Neuroticism",
+      "question": "I find out that Amori, a close friend, has been lying to me about their weekend plans, claiming they were busy studying when they actually went to a party. How should I react to discovering that Amori lied to me about their weekend plans?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Try talking to Amori calmly to understand their perspective; perhaps there was a reason they felt they couldn't share their real plans.",
+          "level": "low"
+        },
+        {
+          "label": "B",
+          "text": "You might want to consider confronting Amori immediately about the dishonesty; it's unsettling that they lied, and this could be a red flag for your relationship.",
+          "level": "high"
+        },
+        {
+          "label": "C",
+          "text": "Consider giving Amori the benefit of the doubt this time—people sometimes make poor choices under stress but it might not indicate a broader pattern of dishonesty.",
+          "level": "low"
+        },
+        {
+          "label": "D",
+          "text": "I suggest reflecting deeply on why Amori might have felt the need to lie because this could be a sign of deeper issues in your friendship that need to be addressed urgently.",
+          "level": "high"
+        }
+      ],
+      "chosen_letter": "A",
+      "chosen_level": "low"
+    },
+    {
+      "trait": "Neuroticism",
+      "question": "I've been struggling with anxiety and heard that reading can help manage stress. I decide to send a book on anxiety management to Tiffanny, who has also been experiencing similar issues. What type of book should I send to Tiffanny to help both of us manage our anxiety better?",
+      "options": [
+        {
+          "label": "A",
+          "text": "You should double-check if Tiffany might feel overwhelmed by the idea, as sending a book about anxiety could unintentionally add pressure or imply urgency in her need to cope.",
+          "level": "high"
+        },
+        {
+          "label": "B",
+          "text": "Sending the book is a thoughtful gesture that highlights your support and understanding of what Tiffany is going through; just make sure it's a book she'd find interesting and helpful.",
+          "level": "low"
+        },
+        {
+          "label": "C",
+          "text": "Consider attaching a personal note expressing your concerns and empathy, assuring Tiffany that you're there for her, which might alleviate any potential stress from misinterpretation of your intent.",
+          "level": "high"
+        },
+        {
+          "label": "D",
+          "text": "Why not include a suggestion to discuss the book together once she's read it? It could be a great way for both of you to share thoughts and grow closer while addressing anxiety.",
+          "level": "low"
+        }
+      ],
+      "chosen_letter": "B",
+      "chosen_level": "low"
+    },
+    {
+      "trait": "Neuroticism",
+      "question": "During a routine office fire drill, I hear a warning about potential real fire hazards in the building. I am immediately worried about the safety protocols in place. What action should I take following the warning about fire hazards?",
+      "options": [
+        {
+          "label": "A",
+          "text": "You should alert everyone around you about the potential danger and verify if everyone is aware of the nearest exits and safety procedures.",
+          "level": "high"
+        },
+        {
+          "label": "B",
+          "text": "Keep composed and check in with the safety officer to get clarity on the situation, ensuring everything is under control.",
+          "level": "low"
+        },
+        {
+          "label": "C",
+          "text": "Double-check your personal safety items like a smoke mask or emergency contact information immediately, as you might need them quickly.",
+          "level": "high"
+        },
+        {
+          "label": "D",
+          "text": "Consider it a precaution and use the opportunity to calmly review the evacuation routes and assembly points.",
+          "level": "low"
+        }
+      ],
+      "chosen_letter": "A",
+      "chosen_level": "high"
+    },
+    {
+      "trait": "Neuroticism",
+      "question": "It's Raiyaan's birthday, and I've decided to give them a thoughtful card along with a small gift. I want to make sure it's special and shows how much I appreciate our friendship. What should I write in the card to Raiyaan to make it meaningful?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Choose a gift that you feel good about, knowing it's the thought that truly counts and Raiyaan will appreciate your effort regardless.",
+          "level": "low"
+        },
+        {
+          "label": "B",
+          "text": "Write what feels right to you in the card; express your genuine appreciation and trust that your sincerity will shine through, making the gift special.",
+          "level": "low"
+        },
+        {
+          "label": "C",
+          "text": "You should spend significant time considering every word in the card, ensuring each sentence perfectly captures your feelings, as even a minor mistake could be taken the wrong way.",
+          "level": "high"
+        },
+        {
+          "label": "D",
+          "text": "Maybe consider getting backup options for the gift, just in case your first choice doesn’t resonate as intended and you need a quick, last-minute change.",
+          "level": "high"
+        }
+      ],
+      "chosen_letter": "B",
+      "chosen_level": "low"
+    },
+    {
+      "trait": "Neuroticism",
+      "question": "I often struggle with remembering names, which makes me anxious about social interactions, especially in professional settings where I fear making a bad impression. Should I admit to a new colleague that I am bad at remembering names and ask them to remind me if necessary?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Use memory aids like associating names with physical characteristics or personal stories, viewing it as a fun puzzle rather than a stress factor.",
+          "level": "low"
+        },
+        {
+          "label": "B",
+          "text": "Try turning the situation into a positive learning moment by openly admitting to your challenges and asking people to remind you of their names.",
+          "level": "low"
+        },
+        {
+          "label": "C",
+          "text": "You might want to prepare for meetings by studying names and faces beforehand to avoid the risk of an embarrassing situation.",
+          "level": "high"
+        },
+        {
+          "label": "D",
+          "text": "Consider apologizing in advance for any names you might forget; this could at least mitigate some of the potential awkwardness.",
+          "level": "high"
+        }
+      ],
+      "chosen_letter": "B",
+      "chosen_level": "low"
+    },
+    {
+      "trait": "Neuroticism",
+      "question": "During a critical presentation, I suddenly lose track of my thoughts and become confused about the data I am presenting. What should I do to regain my composure and continue with the presentation?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Consider the possibility that this could be anxiety impacting your performance; you might want to explore techniques to manage your nervousness before your next presentation.",
+          "level": "high"
+        },
+        {
+          "label": "B",
+          "text": "Laugh it off and let the audience know you lost your spot; it shows authenticity and helps to lighten the atmosphere, making it easier to move on.",
+          "level": "low"
+        },
+        {
+          "label": "C",
+          "text": "It might be a sign that you're overwhelmed and perhaps not prepared enough, so maybe over-prepare next time to prevent a similar situation.",
+          "level": "high"
+        },
+        {
+          "label": "D",
+          "text": "Take a moment to breathe deeply and refocus; it's just a hiccup, and you can smoothly ask for a brief pause or revisit the previous slide to regain your train of thought.",
+          "level": "low"
+        }
+      ],
+      "chosen_letter": "D",
+      "chosen_level": "low"
+    },
+    {
+      "trait": "Neuroticism",
+      "question": "I am at a crucial team meeting at work where tensions are high, and everyone is stressed about meeting a tight deadline. How should I act to manage my stress during this meeting?",
+      "options": [
+        {
+          "label": "A",
+          "text": "You should prepare for potential mistakes or conflicts during the meeting because the high stress might lead to more issues or misunderstandings.",
+          "level": "high"
+        },
+        {
+          "label": "B",
+          "text": "Maybe consider expressing your concerns about the unrealistic timeline to the team, as it seems like it could be setting us all up for failure.",
+          "level": "high"
+        },
+        {
+          "label": "C",
+          "text": "Try to focus on what can be accomplished realistically and encourage your team to break the tasks into manageable parts.",
+          "level": "low"
+        },
+        {
+          "label": "D",
+          "text": "Keep the atmosphere positive by highlighting the team's past successes and reminding everyone that you've overcome similar challenges before.",
+          "level": "low"
+        }
+      ],
+      "chosen_letter": "D",
+      "chosen_level": "low"
+    },
+    {
+      "trait": "Neuroticism",
+      "question": "During a team project, I find myself increasingly irritated by a colleague, Erice, whose work style clashes with mine. What should I do about my growing dislike for Erice during this project?",
+      "options": [
+        {
+          "label": "A",
+          "text": "What if you request a team reshuffle from your supervisor, expressing that the synergy is just not right and it’s causing a lot of stress?",
+          "level": "high"
+        },
+        {
+          "label": "B",
+          "text": "Consider scheduling a casual coffee meeting with Eric to discuss each other’s work styles and potentially discover new ways to collaborate effectively.",
+          "level": "low"
+        },
+        {
+          "label": "C",
+          "text": "Try to find common ground or shared goals that could help both of you focus more on the project’s success rather than personal differences.",
+          "level": "low"
+        },
+        {
+          "label": "D",
+          "text": "Maybe you should write down all your concerns and have a serious discussion with Eric; these unresolved issues might really affect the project’s success.",
+          "level": "high"
+        }
+      ],
+      "chosen_letter": "C",
+      "chosen_level": "low"
+    },
+    {
+      "trait": "Neuroticism",
+      "question": "I'm at the grocery store and suddenly realize I've forgotten the main ingredient for tonight's dinner. What should I do now that I've forgotten an important item at the grocery store?",
+      "options": [
+        {
+          "label": "A",
+          "text": "No worries, this could be a great opportunity to improvise with what you already have at home or pick something new and surprising!",
+          "level": "low"
+        },
+        {
+          "label": "B",
+          "text": "Try to relax; it’s just one ingredient. Perhaps explore the store for an alternative or an exciting new option to try out tonight.",
+          "level": "low"
+        },
+        {
+          "label": "C",
+          "text": "It's really worrying that you forgot a key ingredient; maybe you should rush to get it immediately to avoid messing up dinner.",
+          "level": "high"
+        },
+        {
+          "label": "D",
+          "text": "You might want to call someone to help figure out a backup plan because it could be a disaster if you can't make the meal as planned.",
+          "level": "high"
+        }
+      ],
+      "chosen_letter": "B",
+      "chosen_level": "low"
+    },
+    {
+      "trait": "Neuroticism",
+      "question": "I've been overwhelmed with work and personal commitments, and as a result, I've been neglecting my household chores. How should I manage my responsibilities to ensure my home environment doesn't suffer?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Try to view your chore neglect as a sign that you're prioritizing essential commitments; chores can be fit around more pressing tasks at a more suitable time.",
+          "level": "low"
+        },
+        {
+          "label": "B",
+          "text": "You might want to urgently schedule some time to address those chores before things spiral out of control and leave you feeling even more stressed.",
+          "level": "high"
+        },
+        {
+          "label": "C",
+          "text": "Maybe see this as a chance to adopt a more flexible approach to your household chores, integrating them into your schedule when it feels most manageable.",
+          "level": "low"
+        },
+        {
+          "label": "D",
+          "text": "Consider prioritizing your tasks; maybe some can wait, but don't ignore the possibility that this could all quickly become too overwhelming if left unchecked.",
+          "level": "high"
+        }
+      ],
+      "chosen_letter": "B",
+      "chosen_level": "high"
+    },
+    {
+      "trait": "Neuroticism",
+      "question": "In the middle of a presentation at work, I suddenly forget my next points and stand frozen. How should I handle this situation in front of my colleagues and superiors?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Use this moment to engage the audience with a quick question about the last point or invite a brief interaction, which can buy you some time to recall your next points smoothly.",
+          "level": "low"
+        },
+        {
+          "label": "B",
+          "text": "Quickly glance down at your notes to reorient yourself, but if you can't find your place, it could lead to everyone noticing the pause – maybe apologize for the hiccup.",
+          "level": "high"
+        },
+        {
+          "label": "C",
+          "text": "Take a deep breath and calmly explain to your audience that you need a moment to gather your thoughts, maintaining a composed and confident stance.",
+          "level": "low"
+        },
+        {
+          "label": "D",
+          "text": "Perhaps you should just admit you forgot your place; it's quite embarrassing but less risky than fumbling through and potentially losing your audience's trust with inaccuracies or confusion.",
+          "level": "high"
+        }
+      ],
+      "chosen_letter": "A",
+      "chosen_level": "low"
+    },
+    {
+      "trait": "Neuroticism",
+      "question": "I was part of a local football team that lost an important match, and I missed a critical penalty that could have won us the game. How should I deal with the aftermath of missing the penalty and the team's loss?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Move forward by practicing more penalty shots; it's just one game and there will be many more opportunities to show your skills.",
+          "level": "low"
+        },
+        {
+          "label": "B",
+          "text": "Look at this as a learning experience — everyone makes mistakes, but they're just steps in the journey of improvement.",
+          "level": "low"
+        },
+        {
+          "label": "C",
+          "text": "You might want to consider talking to someone about how you're feeling; missing that penalty could really weigh on your emotions and it's best to address it before it affects you further.",
+          "level": "high"
+        },
+        {
+          "label": "D",
+          "text": "It's important to go over every moment leading up to the miss and obsessively analyze what went wrong to prevent future mistakes.",
+          "level": "high"
+        }
+      ],
+      "chosen_letter": "C",
+      "chosen_level": "high"
+    },
+    {
+      "trait": "Neuroticism",
+      "question": "After a long day at work, I develop a severe headache. I realize I need to find some aspirin in the office to alleviate the pain. How should I go about finding aspirin in the office to deal with my headache?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Check the office first aid kit for aspirin at your convenience, as the headache will likely subside soon with some rest.",
+          "level": "low"
+        },
+        {
+          "label": "B",
+          "text": "Consider leaving work early if you can't find any aspirin; the headache could really throw off the rest of your day.",
+          "level": "high"
+        },
+        {
+          "label": "C",
+          "text": "You should quickly see if someone around you has aspirin because you might not handle the pain if it gets any worse.",
+          "level": "high"
+        },
+        {
+          "label": "D",
+          "text": "Maybe take a moment to relax and breathe deeply, which can sometimes reduce headache intensity while you look for the aspirin.",
+          "level": "low"
+        }
+      ],
+      "chosen_letter": "C",
+      "chosen_level": "high"
+    },
+    {
+      "trait": "Neuroticism",
+      "question": "I decide to bake a cake from scratch for the first time for a friend's birthday party. As the party approaches, I start worrying about whether the cake will turn out well and if the guests will like it. How should I handle my nerves about the cake's reception at the party?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Maybe you should do a trial run and bake the cake a few days earlier to make sure everything goes smoothly.",
+          "level": "high"
+        },
+        {
+          "label": "B",
+          "text": "Go ahead and give it your best shot; it's the effort and thought that counts more than perfection.",
+          "level": "low"
+        },
+        {
+          "label": "C",
+          "text": "Remember, the party is mostly about celebrating your friend, not just the cake, so relax and enjoy the process of baking and the event itself.",
+          "level": "low"
+        },
+        {
+          "label": "D",
+          "text": "It might be a good idea to have a backup plan like ordering a cake from a bakery, just in case yours doesn’t turn out as expected.",
+          "level": "high"
+        }
+      ],
+      "chosen_letter": "C",
+      "chosen_level": "low"
+    },
+    {
+      "trait": "Neuroticism",
+      "question": "At a party, I start feeling out of place and unnoticed. My anxiety begins to spike as I think everyone is judging me. Should I leave the party early, even though I was invited to stay longer?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Maybe you should find a quiet corner to collect your thoughts because it sounds like the environment is overwhelming.",
+          "level": "high"
+        },
+        {
+          "label": "B",
+          "text": "Look for an activity at the party that interests you; focusing on something enjoyable can help ease your anxiety.",
+          "level": "low"
+        },
+        {
+          "label": "C",
+          "text": "Try engaging in a light conversation with someone; often people are not as judgmental as we fear.",
+          "level": "low"
+        },
+        {
+          "label": "D",
+          "text": "Consider excusing yourself and going home if the anxiety becomes too much; your comfort is important.",
+          "level": "high"
+        }
+      ],
+      "chosen_letter": "D",
+      "chosen_level": "high"
+    },
+    {
+      "trait": "Neuroticism",
+      "question": "I am at a park with friends, and I drop my ice cream on the ground. I pick it up, but it's covered in dirt and clearly inedible. What should I do with the ice cream cone now?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Just laugh it off and maybe buy another ice cream — it's a small mishap that shouldn't spoil your fun!",
+          "level": "low"
+        },
+        {
+          "label": "B",
+          "text": "You might worry if this spoils the day; consider telling your friends how disappointed you feel and see if they can cheer you up.",
+          "level": "high"
+        },
+        {
+          "label": "C",
+          "text": "It’s upseting to drop your treat; perhaps it’s best to just go home to avoid further ruining what’s left of your day.",
+          "level": "high"
+        },
+        {
+          "label": "D",
+          "text": "See it as a chance to try a different flavor; grab a new ice cream and continue enjoying the day with your friends.",
+          "level": "low"
+        }
+      ],
+      "chosen_letter": "D",
+      "chosen_level": "low"
+    },
+    {
+      "trait": "Neuroticism",
+      "question": "I've been working towards a promotion at work, but I find out that I didn't get it despite my hard efforts. How should I react to not getting the promotion I worked hard for?",
+      "options": [
+        {
+          "label": "A",
+          "text": "See this as an opportunity to get feedback and improve; it's just one step in your career journey, not the final destination.",
+          "level": "low"
+        },
+        {
+          "label": "B",
+          "text": "Stay positive and continue to work hard, maybe explore additional projects or roles to increase your visibility and chances next time.",
+          "level": "low"
+        },
+        {
+          "label": "C",
+          "text": "I would recommend scrutinizing every aspect of your performance and interactions at work; there must be underlying issues causing them to overlook your effort.",
+          "level": "high"
+        },
+        {
+          "label": "D",
+          "text": "It's quite troubling to think about what went wrong, but perhaps you should prepare for more disappointments and consider why you might not be the right fit.",
+          "level": "high"
+        }
+      ],
+      "chosen_letter": "B",
+      "chosen_level": "low"
+    },
+    {
+      "trait": "Neuroticism",
+      "question": "I've been feeling insecure about my fitness levels compared to others at the gym. This has been making me anxious and hesitant to keep up with my workout routine. How should I deal with my feelings of inadequacy at the gym?",
+      "options": [
+        {
+          "label": "A",
+          "text": "How about talking to a therapist about your gym anxiety? It sounds like it's really affecting your peace of mind and they could offer coping strategies.",
+          "level": "high"
+        },
+        {
+          "label": "B",
+          "text": "Keep in mind that everyone at the gym was a beginner at some point, so there's no real basis for comparison; just keep going at your own pace!",
+          "level": "low"
+        },
+        {
+          "label": "C",
+          "text": "Just focus on your personal growth and set your own fitness goals instead of comparing yourself to others—it’s your personal journey.",
+          "level": "low"
+        },
+        {
+          "label": "D",
+          "text": "Maybe consider a less crowded gym or off-peak hours; it may reduce the feeling you're being watched and judged, which can be quite overwhelming.",
+          "level": "high"
+        }
+      ],
+      "chosen_letter": "D",
+      "chosen_level": "high"
+    },
+    {
+      "trait": "Neuroticism",
+      "question": "While organizing my finances, I realize that I've lost a significant amount of money. This discovery triggers my anxiety, as I start worrying about my financial security and immediate future. How should I handle the realization that I've lost a significant amount of money?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Stay positive and look into diversifying your investments, perhaps this is the right moment to explore new areas that could be more rewarding.",
+          "level": "low"
+        },
+        {
+          "label": "B",
+          "text": "It might be a good idea to consult a financial advisor right away to prevent any further losses, as the situation could potentially worsen if not addressed promptly.",
+          "level": "high"
+        },
+        {
+          "label": "C",
+          "text": "You should immediately review all your financial transactions to see if there’s been a mistake or unauthorized activity; it's scary to think someone could access your funds without notice.",
+          "level": "high"
+        },
+        {
+          "label": "D",
+          "text": "Consider this an opportunity to reassess and strengthen your financial planning; a setback can be a setup for a better financial strategy.",
+          "level": "low"
+        }
+      ],
+      "chosen_letter": "D",
+      "chosen_level": "low"
+    },
+    {
+      "trait": "Neuroticism",
+      "question": "I need to attend a crucial medical appointment, but I am exceedingly anxious about traveling by taxi due to a past negative experience. How can I manage my transportation to ensure I do not miss my appointment?",
+      "options": [
+        {
+          "label": "A",
+          "text": "How about trying a different taxi service or a ride-sharing app? A fresh experience might help replace the negative memory with a better one.",
+          "level": "low"
+        },
+        {
+          "label": "B",
+          "text": "It could be beneficial to practice some deep breathing techniques or carry a stress-relief object during taxi rides to help manage your fears and prevent overwhelming feelings.",
+          "level": "high"
+        },
+        {
+          "label": "C",
+          "text": "Why not turn the taxi ride into a more pleasant experience by planning to listen to your favorite music or an engaging podcast? This could help distract from your anxiety.",
+          "level": "low"
+        },
+        {
+          "label": "D",
+          "text": "You might want to consider arranging a ride with a friend or family member who can provide emotional support during the trip, as relying on taxis could re-trigger your anxiety.",
+          "level": "high"
+        }
+      ],
+      "chosen_letter": "D",
+      "chosen_level": "high"
+    }
+  ],
+  "scores": {
+    "Openness": 0.8,
+    "Conscientiousness": 0.25,
+    "Extraversion": 0.95,
+    "Agreeableness": 0.95,
+    "Neuroticism": 0.35
+  },
+  "counts": {
+    "Openness": {
+      "high": 16,
+      "low": 4,
+      "total": 20
+    },
+    "Conscientiousness": {
+      "high": 5,
+      "low": 15,
+      "total": 20
+    },
+    "Extraversion": {
+      "high": 19,
+      "low": 1,
+      "total": 20
+    },
+    "Agreeableness": {
+      "high": 19,
+      "low": 1,
+      "total": 20
+    },
+    "Neuroticism": {
+      "high": 7,
+      "low": 13,
+      "total": 20
+    }
+  }
+}

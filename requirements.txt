@@ -5,3 +5,4 @@ accelerate
 chromadb
 matplotlib
 seaborn
+datasets
